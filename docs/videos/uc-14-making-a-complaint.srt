@@ -1,0 +1,29 @@
+1
+00:00:12,048 --> 00:00:17,876
+Service client, bonjour. En quoi puis-je vous aider ?
+Customer service, hello. How can I help you?
+
+2
+00:00:17,976 --> 00:00:25,820
+Bonjour. J'ai passé une commande il y a trois semaines, et elle n'a toujours pas été livrée.
+Hello. I placed an order three weeks ago, and it still hasn't been delivered.
+
+3
+00:00:25,920 --> 00:00:31,844
+Je suis désolé. Avez-vous reçu un e-mail de confirmation ?
+I'm sorry. Did you receive a confirmation e-mail?
+
+4
+00:00:31,944 --> 00:00:38,588
+Oui, et le colis a été expédié le 3, mais le suivi n'a pas été mis à jour.
+Yes, and the parcel was shipped on the 3rd, but the tracking hasn't been updated.
+
+5
+00:00:38,688 --> 00:00:43,964
+Je comprends votre mécontentement. Que souhaitez-vous ?
+I understand your dissatisfaction. What would you like?
+
+6
+00:00:44,064 --> 00:00:50,156
+Je souhaiterais être remboursée, ou que vous me renvoyiez le colis rapidement.
+I'd like to be refunded, or for you to send the parcel again quickly.

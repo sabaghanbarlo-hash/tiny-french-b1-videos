@@ -1,0 +1,34 @@
+1
+00:00:12,504 --> 00:00:17,876
+Bonjour, madame. Que puis-je faire pour vous ?
+Hello, madam. What can I do for you?
+
+2
+00:00:17,976 --> 00:00:26,852
+Bonjour. Je voudrais renouveler ma carte de séjour, mais je ne sais pas quels documents il faut apporter.
+Hello. I'd like to renew my residence card, but I don't know which documents to bring.
+
+3
+00:00:26,952 --> 00:00:33,716
+Il faut que vous fournissiez deux photos, un justificatif de domicile et votre ancienne carte.
+You need to provide two photos, a proof of address and your old card.
+
+4
+00:00:33,816 --> 00:00:37,748
+Je peux déposer le dossier aujourd'hui ?
+Can I submit the file today?
+
+5
+00:00:37,848 --> 00:00:46,628
+Oui, mais veuillez prendre un ticket et attendre votre tour. Je vous prie de remplir ce formulaire en majuscules.
+Yes, but please take a ticket and wait your turn. Please fill in this form in capital letters.
+
+6
+00:00:46,728 --> 00:00:52,844
+Merci. Combien de temps faut-il pour recevoir la nouvelle carte ?
+Thank you. How long does it take to receive the new card?
+
+7
+00:00:52,944 --> 00:00:59,372
+Comptez environ quatre semaines. Vous recevrez un récépissé aujourd'hui.
+Allow about four weeks. You'll receive an acknowledgement slip today.

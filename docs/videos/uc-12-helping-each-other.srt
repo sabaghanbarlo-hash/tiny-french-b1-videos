@@ -1,0 +1,29 @@
+1
+00:00:11,952 --> 00:00:15,572
+Tu penses à ton examen de vendredi ?
+Are you thinking about your Friday exam?
+
+2
+00:00:15,672 --> 00:00:21,884
+J'y pense tout le temps ! Je compte sur toi pour m'aider à réviser.
+I think about it all the time! I'm counting on you to help me revise.
+
+3
+00:00:21,984 --> 00:00:29,852
+Pas de problème. Je m'en occupe ce soir. Tu veux que je t'apporte mes notes ?
+No problem. I'll take care of it tonight. Do you want me to bring you my notes?
+
+4
+00:00:29,952 --> 00:00:36,836
+Oui, j'en ai besoin. Et toi, tu as pensé à ton déménagement ?
+Yes, I need them. And you, have you thought about your move?
+
+5
+00:00:36,936 --> 00:00:43,748
+J'y ai pensé. J'ai déjà trouvé des cartons, mais je n'en ai pas assez.
+I've thought about it. I've already found some boxes, but I don't have enough of them.
+
+6
+00:00:43,848 --> 00:00:49,796
+Je peux t'en donner une dizaine. Compte sur moi samedi.
+I can give you about ten. Count on me on Saturday.
