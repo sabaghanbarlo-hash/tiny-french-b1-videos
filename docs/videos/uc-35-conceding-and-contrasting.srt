@@ -1,0 +1,29 @@
+1
+00:00:12,696 --> 00:00:18,764
+Certes, travailler quatre jours est reposant, mais les journées sont plus longues.
+Admittedly, working four days is restful, but the days are longer.
+
+2
+00:00:18,864 --> 00:00:24,500
+Il est vrai que certains sont fatigués, alors que d'autres adorent ce rythme.
+It's true that some people are tired, whereas others love the rhythm.
+
+3
+00:00:24,600 --> 00:00:30,884
+Tandis que les cadres choisissent souvent cette option, les ouvriers n'ont pas toujours ce choix.
+While managers often choose this option, factory workers don't always have the choice.
+
+4
+00:00:30,984 --> 00:00:36,092
+Au contraire, plusieurs usines l'ont testée avec succès.
+On the contrary, several factories have tested it successfully.
+
+5
+00:00:36,192 --> 00:00:43,508
+Pourtant, les syndicats restent prudents. Ils préfèrent négocier plutôt que d'imposer.
+Yet the unions remain cautious. They prefer to negotiate rather than impose.
+
+6
+00:00:43,608 --> 00:00:48,860
+Il faut donc avancer pas à pas, au lieu de tout changer d'un coup.
+So we need to move step by step, instead of changing everything at once.

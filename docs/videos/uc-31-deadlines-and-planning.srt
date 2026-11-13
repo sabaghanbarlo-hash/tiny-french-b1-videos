@@ -1,0 +1,29 @@
+1
+00:00:12,336 --> 00:00:17,876
+D'ici vendredi, j'aurai terminé la première version du rapport.
+By Friday, I'll have finished the first version of the report.
+
+2
+00:00:17,976 --> 00:00:23,588
+Dès que tu l'auras envoyée, je la relirai et je te donnerai mes remarques.
+As soon as you've sent it, I'll reread it and give you my comments.
+
+3
+00:00:23,688 --> 00:00:30,572
+Parfait. Quand nous aurons intégré tes remarques, nous l'enverrons au client.
+Perfect. When we've included your comments, we'll send it to the client.
+
+4
+00:00:30,672 --> 00:00:36,260
+Et le budget ? Il sera validé quand le chef aura signé ?
+And the budget? Will it be approved when the boss has signed?
+
+5
+00:00:36,360 --> 00:00:40,676
+Oui, après qu'il aura reçu tous les devis.
+Yes, after he has received all the quotes.
+
+6
+00:00:40,776 --> 00:00:46,532
+Alors à la fin du mois, tout sera terminé, si tout se passe bien.
+Then by the end of the month everything will be finished, if all goes well.
