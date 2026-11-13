@@ -1,0 +1,29 @@
+1
+00:00:12,048 --> 00:00:16,604
+Adrien, pourrais-tu me rendre un petit service ?
+Adrien, could you do me a small favour?
+
+2
+00:00:16,704 --> 00:00:19,796
+Bien sûr, dis-moi.
+Of course, tell me.
+
+3
+00:00:19,896 --> 00:00:24,548
+Ça te dérange si j'emprunte ton vélo ce week-end ?
+Do you mind if I borrow your bike this weekend?
+
+4
+00:00:24,648 --> 00:00:32,060
+Pas du tout. Je te le prête volontiers. Je te le donne demain soir.
+Not at all. I'll gladly lend it to you. I'll give it to you tomorrow evening.
+
+5
+00:00:32,160 --> 00:00:37,652
+Merci ! Je te le rends lundi matin sans faute.
+Thanks! I'll give it back to you on Monday morning without fail.
+
+6
+00:00:37,752 --> 00:00:44,756
+Pas de souci. Mais attention aux pneus, je les ai changés la semaine dernière.
+No worries. But be careful with the tyres, I changed them last week.

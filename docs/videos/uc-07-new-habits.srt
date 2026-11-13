@@ -1,0 +1,29 @@
+1
+00:00:11,856 --> 00:00:16,772
+Tu as l'air en forme ! Qu'est-ce qui a changé ?
+You look fit! What has changed?
+
+2
+00:00:16,872 --> 00:00:22,484
+Depuis que j'ai arrêté de prendre l'ascenseur, je me sens beaucoup mieux.
+Since I stopped taking the lift, I feel much better.
+
+3
+00:00:22,584 --> 00:00:25,916
+Ça fait longtemps que tu fais ça ?
+Have you been doing that for a long time?
+
+4
+00:00:26,016 --> 00:00:32,084
+Ça fait six mois que je monte à pied. Au début, c'était dur.
+I've been walking up for six months. At first it was hard.
+
+5
+00:00:32,184 --> 00:00:36,476
+Et depuis que tu cuisines plus, tu dors mieux ?
+And since you've been cooking more, do you sleep better?
+
+6
+00:00:36,576 --> 00:00:43,676
+Oui, je pense que tout est lié. Il suffit de commencer par un petit changement.
+Yes, I think everything is connected. You only need to start with one small change.
