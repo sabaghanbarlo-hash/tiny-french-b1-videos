@@ -1,0 +1,29 @@
+1
+00:00:11,976 --> 00:00:17,516
+Bonjour, je voudrais savoir si le musée est ouvert le dimanche.
+Hello, I'd like to know if the museum is open on Sundays.
+
+2
+00:00:17,616 --> 00:00:24,164
+Oui, de dix heures à dix-huit heures. Voulez-vous réserver des places ?
+Yes, from ten to six. Would you like to book tickets?
+
+3
+00:00:24,264 --> 00:00:29,588
+Oui, pouvez-vous me dire combien coûte l'entrée pour deux personnes ?
+Yes, can you tell me how much admission is for two people?
+
+4
+00:00:29,688 --> 00:00:34,940
+Quinze euros par adulte, avec un tarif réduit pour les étudiants.
+Fifteen euros per adult, with a reduced rate for students.
+
+5
+00:00:35,040 --> 00:00:39,884
+Et je voudrais savoir s'il y a une visite guidée en français.
+And I'd like to know if there's a guided tour in French.
+
+6
+00:00:39,984 --> 00:00:46,916
+Oui, tous les jours à quinze heures. Je vous conseille de réserver à l'avance.
+Yes, every day at three p.m. I advise you to book in advance.
