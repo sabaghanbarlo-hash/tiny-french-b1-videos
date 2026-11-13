@@ -1,0 +1,47 @@
+title: The Story of My Life
+episode: UC1
+scene: cafe
+
+[story]
+Marinette: Adrien, raconte-nous ton parcours. Où es-tu né ? | Adrien, tell us about your background. Where were you born?
+Adrien: Je suis né à Lyon en 2006, mais j'ai grandi dans un petit village à côté. | I was born in Lyon in 2006, but I grew up in a little village nearby.
+Marinette: Et quand as-tu décidé de travailler dans le tourisme ? | And when did you decide to work in tourism?
+Adrien: À l'âge de seize ans, après un voyage en Italie qui m'a marqué. | At the age of sixteen, after a trip to Italy that left a mark on me.
+Marinette: Tu as quitté la maison à dix-huit ans, non ? | You left home at eighteen, didn't you?
+Adrien: Oui, j'ai obtenu mon bac, puis j'ai commencé mes études à Lyon. Je travaillais le soir comme serveur. | Yes, I got my baccalauréat, then I started my studies in Lyon. I worked in the evenings as a waiter.
+
+[vocab]
+vocab: le parcours | background, career path | luh par-KOOR
+example: Raconte-moi ton parcours. | Tell me about your background.
+vocab: naître | to be born | NEH-truh
+example: Je suis né à Lyon. | I was born in Lyon.
+vocab: grandir | to grow up | grahn-DEER
+example: J'ai grandi dans un village. | I grew up in a village.
+vocab: à l'âge de | at the age of | ah LAHZH duh
+example: À l'âge de seize ans, j'ai voyagé. | At the age of sixteen, I travelled.
+vocab: quitter | to leave | kee-TAY
+example: J'ai quitté la maison à dix-huit ans. | I left home at eighteen.
+vocab: obtenir | to obtain, to get | ohb-tuh-NEER
+example: J'ai obtenu mon diplôme. | I got my degree.
+vocab: le bac | baccalauréat (school-leaving exam) | luh BAHK
+example: J'ai eu mon bac en 2024. | I got my baccalauréat in 2024.
+vocab: marquer | to leave a mark on, to affect | mar-KAY
+example: Ce voyage m'a marqué. | That trip left a mark on me.
+vocab: décider de | to decide to | day-see-DAY duh
+example: J'ai décidé de partir. | I decided to leave.
+
+[grammar]
+grammar: Telling a life story | Use the passé composé for events that moved your life forward and the imparfait for what was going on around them. Naître is conjugated with être, and the participle agrees: elle est née, ils sont nés. Grandir is regular with avoir: j'ai grandi.
+example: Je suis né en 2006. | I was born in 2006.
+example: Elle est née à Paris. | She was born in Paris.
+grammar: Dates and ages | Say the year with en and the month with en or au mois de. For a precise day: le 3 mars. For age, use à l'âge de plus number plus ans, or à plus number plus ans: à seize ans. Use il y a to place an event from today: il y a dix ans.
+example: Je suis né en 2006. | I was born in 2006.
+example: À dix-huit ans, j'ai quitté la maison. | At eighteen, I left home.
+
+[quiz]
+quiz: How do you say “I was born in Lyon”? | J'ai né à Lyon. | Je suis né à Lyon. | Je suis naître à Lyon. | Je nais à Lyon. | B | Naître takes être: je suis né.
+quiz: Which tense describes what was going on in the background? | passé composé | futur | imparfait | impératif | C | Background = imparfait.
+quiz: What does “à l'âge de seize ans” mean? | for sixteen years | sixteen years ago | after sixteen years | at the age of sixteen | D | À l'âge de = at the age of.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

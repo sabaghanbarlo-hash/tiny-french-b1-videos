@@ -1,0 +1,47 @@
+title: Reporting What Was Said
+episode: UC26
+scene: classroom
+
+[story]
+Marinette: Hier, Hugo m'a dit qu'il viendrait à la réunion, mais il n'est pas venu. | Yesterday, Hugo told me he would come to the meeting, but he didn't come.
+Adrien: Il m'a expliqué qu'il avait eu un problème de transport. | He explained to me that he'd had a transport problem.
+Marinette: Il m'a aussi demandé si j'avais le dossier, et je lui ai répondu que je l'envoyais ce matin. | He also asked me if I had the file, and I told him I was sending it this morning.
+Adrien: Le chef nous a demandé de préparer une présentation pour jeudi. | The boss asked us to prepare a presentation for Thursday.
+Marinette: Il a dit qu'on avait encore trois jours, donc qu'il n'y avait pas d'urgence. | He said we still had three days, so there was no urgency.
+Adrien: Je lui ai demandé où il voulait que nous la présentions, et il a répondu qu'il verrait. | I asked him where he wanted us to present it, and he answered that he would see.
+
+[vocab]
+vocab: dire que | to say that | DEER kuh
+example: Il a dit qu'il viendrait. | He said he would come.
+vocab: demander si | to ask whether | duh-mahn-DAY see
+example: Il a demandé si j'avais le dossier. | He asked if I had the file.
+vocab: demander de | to ask (someone) to | duh-mahn-DAY duh
+example: Il nous a demandé de préparer. | He asked us to prepare.
+vocab: expliquer que | to explain that | ehks-plee-KAY kuh
+example: Il a expliqué qu'il avait eu un problème. | He explained he had had a problem.
+vocab: répondre que | to answer that | ray-POHN-druh kuh
+example: Il a répondu qu'il verrait. | He answered that he would see.
+vocab: ajouter que | to add that | ah-zhoo-TAY kuh
+example: Elle a ajouté qu'elle viendrait. | She added that she would come.
+vocab: l'urgence | urgency, emergency | lew-ZHAHNSS
+example: Il n'y a pas d'urgence. | There's no urgency.
+vocab: la présentation | presentation | lah pray-zahn-tah-SYOHN
+example: Je prépare une présentation. | I'm preparing a presentation.
+vocab: le problème de transport | transport problem | luh proh-BLEHM duh trahns-POHR
+example: Il a eu un problème de transport. | He had a transport problem.
+
+[grammar]
+grammar: Tense changes in reported speech | After a verb in the past, the tenses shift back: présent becomes imparfait, futur becomes conditionnel, passé composé becomes plus-que-parfait. Pronouns and time words change too: je becomes il, demain becomes le lendemain, hier becomes la veille.
+example: Il a dit qu'il viendrait. | He said he would come.
+example: Il a expliqué qu'il avait eu un problème. | He explained that he'd had a problem.
+grammar: Reporting questions and orders | Yes/no questions: demander si plus imparfait or other tense: il m'a demandé si j'avais le dossier. Questions with a question word keep it: il m'a demandé où nous voulions présenter; il a demandé quand nous partions. Orders and requests: demander à quelqu'un de plus infinitive: le chef nous a demandé de préparer une présentation.
+example: Il m'a demandé si j'avais le dossier. | He asked me if I had the file.
+example: Le chef nous a demandé de préparer une présentation. | The boss asked us to prepare a presentation.
+
+[quiz]
+quiz: How do you report “Je viendrai”? | Il a dit qu'il viendrait. | Il a dit qu'il viendra. | Il a dit qu'il vient. | Il a dit qu'il viendrais. | A | Futur → conditionnel after a past verb.
+quiz: Which tense does “il a eu” become after “il a expliqué que”? | imparfait | plus-que-parfait | conditionnel | présent | B | Passé composé → plus-que-parfait.
+quiz: How do you report an order “Préparez une présentation !”? | Il nous a demandé préparer une présentation. | Il nous a dit que préparer une présentation. | Il nous a demandé de préparer une présentation. | Il nous a demandé qu'on prépare. | C | Demander de + infinitive.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

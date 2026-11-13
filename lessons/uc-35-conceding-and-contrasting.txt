@@ -1,0 +1,47 @@
+title: Conceding and Contrasting
+episode: UC35
+scene: cafe
+
+[story]
+Adrien: Certes, travailler quatre jours est reposant, mais les journées sont plus longues. | Admittedly, working four days is restful, but the days are longer.
+Marinette: Il est vrai que certains sont fatigués, alors que d'autres adorent ce rythme. | It's true that some people are tired, whereas others love the rhythm.
+Adrien: Tandis que les cadres choisissent souvent cette option, les ouvriers n'ont pas toujours ce choix. | While managers often choose this option, factory workers don't always have the choice.
+Marinette: Au contraire, plusieurs usines l'ont testée avec succès. | On the contrary, several factories have tested it successfully.
+Adrien: Pourtant, les syndicats restent prudents. Ils préfèrent négocier plutôt que d'imposer. | Yet the unions remain cautious. They prefer to negotiate rather than impose.
+Marinette: Il faut donc avancer pas à pas, au lieu de tout changer d'un coup. | So we need to move step by step, instead of changing everything at once.
+
+[vocab]
+vocab: certes… mais | admittedly… but | SEHRT… meh
+example: Certes, c'est long, mais c'est utile. | Admittedly it's long, but it's useful.
+vocab: il est vrai que… mais | it's true that… but | eel eh VREH kuh… meh
+example: Il est vrai que c'est cher, mais c'est bon. | It's true that it's expensive, but it's good.
+vocab: alors que | whereas, while | ah-LOHR kuh
+example: Certains sont fatigués, alors que d'autres adorent. | Some are tired, whereas others love it.
+vocab: tandis que | while, whereas | tahn-DEE kuh
+example: Tandis que l'un travaille, l'autre se repose. | While one works, the other rests.
+vocab: au contraire | on the contrary | oh kohn-TREHR
+example: Au contraire, c'est très utile. | On the contrary, it's very useful.
+vocab: pourtant | yet, nevertheless | poor-TAHN
+example: Pourtant, il reste prudent. | Yet he remains cautious.
+vocab: plutôt que (de) | rather than | plew-TOH kuh
+example: Négocier plutôt que d'imposer. | To negotiate rather than impose.
+vocab: au lieu de | instead of | oh LYUH duh
+example: Au lieu de tout changer… | Instead of changing everything…
+vocab: pas à pas | step by step | pah zah PAH
+example: Avançons pas à pas. | Let's move step by step.
+
+[grammar]
+grammar: Contrast and concession | Certes mais and il est vrai que mais grant a point and then oppose it. Alors que and tandis que contrast two situations: certains sont fatigués, alors que d'autres adorent ce rythme. Au contraire contradicts the previous idea. Pourtant and cependant mean however, even so: pourtant, les syndicats restent prudents.
+example: Certes, c'est long, mais c'est utile. | Admittedly it's long, but it's useful.
+example: Certains sont fatigués, alors que d'autres adorent. | Some are tired, whereas others love it.
+grammar: Rather than, instead of | Plutôt que de plus infinitive and au lieu de plus infinitive or noun express a preference or a replacement. Plutôt que alone with a noun: du thé plutôt que du café. Use sans plus infinitive for without: sans tout changer.
+example: Il préfère négocier plutôt que d'imposer. | He prefers to negotiate rather than impose.
+example: Au lieu de tout changer, avançons pas à pas. | Instead of changing everything, let's go step by step.
+
+[quiz]
+quiz: Which connector contrasts two situations? | parce que | donc | afin de | alors que | D | Alors que = whereas.
+quiz: What does “au contraire” do? | contradicts the previous idea | adds an example | gives a reason | gives a result | A | Au contraire = on the contrary.
+quiz: What does “au lieu de” mean? | in place of time | instead of | because of | after | B | Au lieu de = instead of.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

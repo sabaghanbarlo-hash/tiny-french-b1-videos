@@ -1,0 +1,47 @@
+title: Then and Now
+episode: UC8
+scene: home
+
+[story]
+Marinette: Mes grands-parents travaillaient plus que nous, mais ils avaient plus de temps libre. | My grandparents worked more than we do, but they had more free time.
+Adrien: C'est vrai que de nos jours, on voyage autant, mais on se repose moins. | It's true that nowadays we travel as much, but we rest less.
+Marinette: Ma grand-mère dit qu'à son époque, les enfants jouaient dehors plus souvent. | My grandmother says that in her day, children played outside more often.
+Adrien: Aujourd'hui, ils passent autant d'heures devant un écran que devant leurs devoirs. | Today they spend as many hours in front of a screen as in front of their homework.
+Marinette: Et pourtant, ils savent beaucoup plus de choses que nous à leur âge. | And yet they know many more things than we did at their age.
+Adrien: Chaque génération a ses avantages. Ce n'est ni mieux ni moins bien, c'est différent. | Every generation has its advantages. It's neither better nor worse, it's different.
+
+[vocab]
+vocab: la génération | generation | lah zhay-nay-rah-SYOHN
+example: Chaque génération est différente. | Every generation is different.
+vocab: à mon époque | in my day | ah mohn nay-POHK
+example: À mon époque, on jouait dehors. | In my day, we played outside.
+vocab: de nos jours | nowadays | duh noh ZHOOR
+example: De nos jours, tout va vite. | Nowadays, everything moves fast.
+vocab: plus… que | more… than | plew… kuh
+example: Il travaille plus que moi. | He works more than I do.
+vocab: moins… que | less… than | mwan… kuh
+example: Je me repose moins qu'avant. | I rest less than before.
+vocab: autant que | as much as | oh-TAHN kuh
+example: Nous voyageons autant qu'eux. | We travel as much as they do.
+vocab: autant de… que | as much / as many… as | oh-TAHN duh… kuh
+example: Il a autant de temps que moi. | He has as much time as I do.
+vocab: l'avantage | advantage | lah-vahn-TAHZH
+example: Chaque âge a ses avantages. | Every age has its advantages.
+vocab: ni… ni… | neither… nor… | nee… NEE
+example: Ce n'est ni mieux ni moins bien. | It's neither better nor worse.
+
+[grammar]
+grammar: Comparing quantities and actions | Compare actions with plus que, moins que, autant que after the verb: ils travaillaient plus que nous, on se repose moins qu'avant, nous voyageons autant qu'eux. Compare nouns with plus de, moins de, autant de plus noun plus que: ils avaient plus de temps libre que nous, autant de devoirs que de jeux. Use the stressed pronouns after que: que moi, que toi, que lui, que nous, qu'eux.
+example: Ils travaillaient plus que nous. | They worked more than we do.
+example: Il a autant de temps que moi. | He has as much time as I do.
+grammar: Ni… ni… and generations | Ni ni means neither nor; with ne before the verb: ce n'est ni mieux ni moins bien. Words for talking about generations: à mon époque, de nos jours, aujourd'hui, avant, autrefois, les jeunes, les anciens. Use the imparfait for the past habits, the present for now.
+example: Ce n'est ni mieux ni moins bien. | It's neither better nor worse.
+example: À son époque, on jouait dehors. | In her day, people played outside.
+
+[quiz]
+quiz: How do you say “as much time as me”? | autant temps que moi | autant de temps comme moi | autant de temps que moi | aussi de temps que moi | C | Autant de + noun + que.
+quiz: What does “ni… ni…” mean? | either… or… | both… and… | not only… but also… | neither… nor… | D | Ni… ni… = neither… nor…
+quiz: What does “de nos jours” mean? | nowadays | in the past | in the future | every day | A | De nos jours = nowadays.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,48 @@
+title: Dealing With Administration
+episode: UC13
+scene: town
+
+[story]
+Adrien: Bonjour, madame. Que puis-je faire pour vous ? | Hello, madam. What can I do for you?
+Marinette: Bonjour. Je voudrais renouveler ma carte de séjour, mais je ne sais pas quels documents il faut apporter. | Hello. I'd like to renew my residence card, but I don't know which documents to bring.
+Adrien: Il faut que vous fournissiez deux photos, un justificatif de domicile et votre ancienne carte. | You need to provide two photos, a proof of address and your old card.
+Marinette: Je peux déposer le dossier aujourd'hui ? | Can I submit the file today?
+Adrien: Oui, mais veuillez prendre un ticket et attendre votre tour. Je vous prie de remplir ce formulaire en majuscules. | Yes, but please take a ticket and wait your turn. Please fill in this form in capital letters.
+Marinette: Merci. Combien de temps faut-il pour recevoir la nouvelle carte ? | Thank you. How long does it take to receive the new card?
+Adrien: Comptez environ quatre semaines. Vous recevrez un récépissé aujourd'hui. | Allow about four weeks. You'll receive an acknowledgement slip today.
+
+[vocab]
+vocab: les démarches | administrative procedures | lay day-MARSH
+example: Je fais mes démarches. | I'm doing my paperwork.
+vocab: renouveler | to renew | ruh-noo-vuh-LAY
+example: Je dois renouveler ma carte. | I have to renew my card.
+vocab: fournir | to provide, to supply | foor-NEER
+example: Il faut fournir deux photos. | You need to provide two photos.
+vocab: déposer un dossier | to submit a file | day-poh-ZAY uhn doh-SYAY
+example: Je dépose mon dossier. | I'm submitting my file.
+vocab: le récépissé | receipt, acknowledgement slip | luh ray-say-pee-SAY
+example: Gardez le récépissé. | Keep the receipt.
+vocab: le guichet | counter, desk | luh gee-SHEH
+example: Allez au guichet numéro trois. | Go to counter three.
+vocab: veuillez + infinitif | please (formal) | vuh-yay
+example: Veuillez attendre. | Please wait.
+vocab: remplir en majuscules | to fill in capital letters | rahn-PLEER ahn mah-zhews-KEWL
+example: Remplissez en majuscules. | Fill in capital letters.
+vocab: attendre son tour | to wait one's turn | ah-TAHN-druh sohn TOOR
+example: Veuillez attendre votre tour. | Please wait your turn.
+
+[grammar]
+grammar: Formal instructions | Administrations use veuillez plus infinitive, je vous prie de plus infinitive and the vous imperative. You will also see infinitives on forms: écrire en majuscules, joindre une photo. The register is polite and impersonal.
+example: Veuillez prendre un ticket. | Please take a ticket.
+example: Je vous prie de remplir ce formulaire. | Please fill in this form.
+grammar: Requirements with the subjunctive | To state what someone must do, use il faut que plus subjunctive: il faut que vous fournissiez deux photos, il faut que vous veniez avant midi. Compare the infinitive for general rules: il faut fournir deux photos. Asking what is needed: quels documents faut-il apporter ? Il me faut quoi ?
+example: Il faut que vous fournissiez deux photos. | You need to provide two photos.
+example: Il faut que vous veniez avant midi. | You need to come before noon.
+
+[quiz]
+quiz: Which expression is formal and polite? | Attends ton tour ! | Veuillez attendre votre tour. | Tu dois attendre. | Fais la queue. | B | Veuillez + infinitive.
+quiz: What does “déposer un dossier” mean? | to drop a file | to lose a file | to submit a file | to open a file | C | Déposer = submit.
+quiz: What is a “récépissé”? | a medical prescription | a fine | a contract | an acknowledgement slip | D | Récépissé = receipt.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

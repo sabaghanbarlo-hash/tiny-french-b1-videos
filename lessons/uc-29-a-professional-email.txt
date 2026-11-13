@@ -1,0 +1,47 @@
+title: A Professional E-mail
+episode: UC29
+scene: classroom
+
+[story]
+Marinette: Je voudrais envoyer un e-mail de remerciement. Comment je commence ? | I'd like to send a thank-you e-mail. How do I start?
+Adrien: « Madame, Suite à notre entretien de mardi, je tiens à vous remercier de votre accueil. » | “Madam, Following our interview on Tuesday, I would like to thank you for your welcome.”
+Marinette: Ensuite, je mentionne le CV que j'ai promis d'envoyer. | Then I mention the CV I promised to send.
+Adrien: « Vous trouverez en pièce jointe mon CV mis à jour afin de compléter mon dossier. » | “You will find attached my updated CV, in order to complete my file.”
+Marinette: Et pour finir ? | And to finish?
+Adrien: « N'hésitez pas à me contacter si vous avez besoin d'informations. Cordialement, Marinette Dupont. » | “Do not hesitate to contact me if you need any information. Kind regards, Marinette Dupont.”
+
+[vocab]
+vocab: suite à | following, further to | sweet ah
+example: Suite à notre entretien… | Following our interview…
+vocab: je tiens à vous remercier | I'd like to thank you | zhuh tyan ah voo ruh-mehr-SYAY
+example: Je tiens à vous remercier de votre accueil. | I'd like to thank you for your welcome.
+vocab: l'accueil | welcome, reception | lah-KUHY
+example: Merci pour votre accueil. | Thank you for your welcome.
+vocab: en pièce jointe | attached | ahn PYEHSS ZHWANT
+example: Vous trouverez mon CV en pièce jointe. | Please find my CV attached.
+vocab: afin de | in order to | ah-FAN duh
+example: Afin de compléter mon dossier. | In order to complete my file.
+vocab: n'hésitez pas à | do not hesitate to | nay-zee-TAY pah ah
+example: N'hésitez pas à me contacter. | Don't hesitate to contact me.
+vocab: compléter | to complete | kohn-play-TAY
+example: Je complète mon dossier. | I'm completing my file.
+vocab: cordialement | kind regards | kohr-dyahl-MAHN
+example: Cordialement, Marinette Dupont. | Kind regards, Marinette Dupont.
+vocab: l'objet (du message) | subject line | lohb-ZHEH
+example: L'objet du message doit être clair. | The subject line must be clear.
+
+[grammar]
+grammar: Structure of a professional e-mail | A clear e-mail has: an informative subject line, a greeting, the reason for writing, the main content in short paragraphs, a request or next step, and a closing. Use vous and avoid slang.
+example: Suite à notre entretien, je vous remercie. | Following our interview, I thank you.
+example: N'hésitez pas à me contacter. | Do not hesitate to contact me.
+grammar: Thanking and requesting | Thank with je vous remercie de plus noun or de plus infinitive. Compare je vous remercie pour votre réponse. Ask politely with je vous serais reconnaissant de plus infinitive or pourriez-vous plus infinitive. Say what you attach with vous trouverez en pièce jointe plus noun.
+example: Je vous remercie de m'avoir reçue. | Thank you for having received me.
+example: Pourriez-vous me confirmer la date ? | Could you confirm the date for me?
+
+[quiz]
+quiz: Which phrase opens an e-mail after a meeting? | À propos de moi | Suite à notre entretien | Par rapport à toi | Au fait, | B | Suite à + noun.
+quiz: What does “n'hésitez pas à” mean? | do not wait to | do not forget to | do not hesitate to | do not refuse to | C | N'hésitez pas à = feel free to.
+quiz: Which closing is professional? | Salut | Bisous | À plus | Cordialement | D | Cordialement.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

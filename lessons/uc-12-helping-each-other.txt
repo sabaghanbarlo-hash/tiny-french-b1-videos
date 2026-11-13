@@ -1,0 +1,47 @@
+title: Helping Each Other
+episode: UC12
+scene: classroom
+
+[story]
+Adrien: Tu penses à ton examen de vendredi ? | Are you thinking about your Friday exam?
+Marinette: J'y pense tout le temps ! Je compte sur toi pour m'aider à réviser. | I think about it all the time! I'm counting on you to help me revise.
+Adrien: Pas de problème. Je m'en occupe ce soir. Tu veux que je t'apporte mes notes ? | No problem. I'll take care of it tonight. Do you want me to bring you my notes?
+Marinette: Oui, j'en ai besoin. Et toi, tu as pensé à ton déménagement ? | Yes, I need them. And you, have you thought about your move?
+Adrien: J'y ai pensé. J'ai déjà trouvé des cartons, mais je n'en ai pas assez. | I've thought about it. I've already found some boxes, but I don't have enough of them.
+Marinette: Je peux t'en donner une dizaine. Compte sur moi samedi. | I can give you about ten. Count on me on Saturday.
+
+[vocab]
+vocab: s'entraider | to help each other | sahn-treh-DAY
+example: Entre amis, on s'entraide. | Between friends, we help each other.
+vocab: compter sur | to count on | kohn-TAY sewr
+example: Je compte sur toi. | I'm counting on you.
+vocab: s'occuper de | to take care of | soh-kew-PAY duh
+example: Je m'occupe des cartons. | I'll take care of the boxes.
+vocab: penser à | to think about | pahn-SAY ah
+example: Je pense à mon examen. | I'm thinking about my exam.
+vocab: réviser | to revise | ray-vee-ZAY
+example: Je révise pour l'examen. | I'm revising for the exam.
+vocab: les notes | notes | lay NOHT
+example: Je t'apporte mes notes. | I'll bring you my notes.
+vocab: le déménagement | the move (house move) | luh day-may-nah-zhuh-MAHN
+example: Mon déménagement est samedi. | My move is on Saturday.
+vocab: une dizaine | about ten | ewn dee-ZEHN
+example: J'ai une dizaine de cartons. | I have about ten boxes.
+vocab: aider quelqu'un à | to help someone to | eh-DAY kehl-KUHN ah
+example: Tu m'aides à réviser ? | Will you help me revise?
+
+[grammar]
+grammar: The pronouns y and en | Y replaces à plus a thing or place: je pense à mon examen becomes j'y pense; je vais à Lyon becomes j'y vais. En replaces de plus a thing or a quantity: je m'occupe des cartons becomes je m'en occupe; j'ai besoin de notes becomes j'en ai besoin; j'ai dix cartons becomes j'en ai dix. Both go before the verb: j'y pense, je n'en ai pas, je peux t'en donner.
+example: J'y pense tout le temps. | I think about it all the time.
+example: Je m'en occupe ce soir. | I'll take care of it tonight.
+grammar: Verbs of help and support | Aider quelqu'un à plus infinitive: tu m'aides à réviser ? Compter sur quelqu'un pour plus infinitive: je compte sur toi pour m'aider. S'occuper de plus noun: je m'occupe des cartons. Penser à plus noun, penser de plus noun: qu'est-ce que tu penses de ça ? Thank: merci pour ton aide, tu es un ange.
+example: Tu m'aides à réviser ? | Will you help me revise?
+example: Je compte sur toi pour m'aider. | I'm counting on you to help me.
+
+[quiz]
+quiz: How do you say “I think about it” (my exam)? | J'en pense. | Je pense y. | J'y pense. | Je le pense. | C | Penser à + thing → y.
+quiz: Which pronoun replaces “des cartons” in “j'ai besoin des cartons”? | y | le | les | en | D | De + thing → en.
+quiz: What does “compter sur quelqu'un” mean? | to count on someone | to count someone | to count up to someone | to number someone | A | Compter sur = rely on.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

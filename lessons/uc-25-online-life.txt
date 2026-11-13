@@ -1,0 +1,47 @@
+title: Online Life
+episode: UC25
+scene: cafe
+
+[story]
+Marinette: Tu passes combien de temps sur ton téléphone par jour ? | How much time do you spend on your phone each day?
+Adrien: Trois heures, d'après l'appli. Je passe beaucoup de temps à regarder des vidéos. | Three hours, according to the app. I spend a lot of time watching videos.
+Marinette: Moi, je me connecte surtout pour travailler. J'ai désinstallé deux réseaux sociaux. | I mostly go online to work. I've uninstalled two social networks.
+Adrien: Tu n'as pas eu peur de rater des choses ? | Weren't you afraid of missing things?
+Marinette: Au début, si. Mais je passe plus de temps à lire depuis que j'ai arrêté. | At first, yes. But I spend more time reading since I stopped.
+Adrien: Je devrais faire pareil. Je vais mettre une limite de deux heures dans les réglages. | I should do the same. I'm going to put a two-hour limit in the settings.
+
+[vocab]
+vocab: se connecter | to log in, to go online | suh koh-nehk-TAY
+example: Je me connecte tous les matins. | I log in every morning.
+vocab: télécharger | to download | tay-lay-shar-ZHAY
+example: J'ai téléchargé une application. | I downloaded an app.
+vocab: l'appli (l'application) | app | LAH-plee
+example: Cette appli est gratuite. | This app is free.
+vocab: le réseau social | social network | luh ray-ZOH soh-SYAHL
+example: Je lis les réseaux sociaux. | I read social networks.
+vocab: désinstaller | to uninstall | day-zan-stah-LAY
+example: J'ai désinstallé l'appli. | I uninstalled the app.
+vocab: mettre à jour | to update | MEH-truh ah ZHOOR
+example: Je mets l'appli à jour. | I update the app.
+vocab: les réglages | settings | lay ray-GLAZH
+example: Je change les réglages. | I change the settings.
+vocab: passer du temps à | to spend time (doing) | pah-SAY dew TAHN ah
+example: Je passe du temps à lire. | I spend time reading.
+vocab: s'abonner à | to subscribe to | sah-boh-NAY ah
+example: Je m'abonne à une chaîne. | I subscribe to a channel.
+
+[grammar]
+grammar: Passer du temps à + infinitive | Passer du temps à plus infinitive says how you spend your time: je passe beaucoup de temps à regarder des vidéos, il passe trois heures à jouer. Compare perdre du temps à plus infinitive. With a noun, use sur: je passe du temps sur mon téléphone, sur les réseaux sociaux.
+example: Je passe du temps à lire. | I spend time reading.
+example: Il perd du temps à regarder des vidéos. | He wastes time watching videos.
+grammar: Digital verbs | Many digital verbs are regular -er verbs: télécharger, désinstaller, publier, partager, commenter, bloquer. Common expressions: mettre à jour, se connecter / se déconnecter, avoir du réseau, être en ligne / hors ligne, activer / désactiver une notification.
+example: J'ai désinstallé deux réseaux sociaux. | I've uninstalled two social networks.
+example: Je me déconnecte à vingt-deux heures. | I log off at ten p.m.
+
+[quiz]
+quiz: Which sentence is correct? | Je passe beaucoup de temps de regarder des vidéos. | Je passe beaucoup de temps à regarder des vidéos. | Je passe beaucoup du temps regarder des vidéos. | Je passe beaucoup de temps pour regarder des vidéos. | B | Passer du temps à + infinitive.
+quiz: What does “les réglages” mean? | the rules | the payments | the settings | the regulations | C | Réglages = settings.
+quiz: What does “se déconnecter” mean? | to disconnect a cable | to break a connection | to switch phone | to log off | D | Se déconnecter = log off.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

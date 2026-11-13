@@ -1,0 +1,47 @@
+title: Deadlines and Planning
+episode: UC31
+scene: classroom
+
+[story]
+Marinette: D'ici vendredi, j'aurai terminé la première version du rapport. | By Friday, I'll have finished the first version of the report.
+Adrien: Dès que tu l'auras envoyée, je la relirai et je te donnerai mes remarques. | As soon as you've sent it, I'll reread it and give you my comments.
+Marinette: Parfait. Quand nous aurons intégré tes remarques, nous l'enverrons au client. | Perfect. When we've included your comments, we'll send it to the client.
+Adrien: Et le budget ? Il sera validé quand le chef aura signé ? | And the budget? Will it be approved when the boss has signed?
+Marinette: Oui, après qu'il aura reçu tous les devis. | Yes, after he has received all the quotes.
+Adrien: Alors à la fin du mois, tout sera terminé, si tout se passe bien. | Then by the end of the month everything will be finished, if all goes well.
+
+[vocab]
+vocab: d'ici vendredi | by Friday | dee-see vahn-druh-DEE
+example: D'ici vendredi, j'aurai fini. | By Friday, I'll have finished.
+vocab: terminer | to finish | tehr-mee-NAY
+example: J'aurai terminé le rapport. | I'll have finished the report.
+vocab: dès que | as soon as | deh KUH
+example: Dès que tu l'auras envoyé, je le lirai. | As soon as you've sent it, I'll read it.
+vocab: une fois que | once | ewn FWAH kuh
+example: Une fois que j'aurai fini, je partirai. | Once I've finished, I'll leave.
+vocab: après que | after (+ indicative) | ah-PREH kuh
+example: Après qu'il aura signé. | After he has signed.
+vocab: la remarque | comment, remark | lah ruh-MARK
+example: Je te donne mes remarques. | I'll give you my comments.
+vocab: le devis | quote, estimate | luh duh-VEE
+example: Nous attendons le devis. | We're waiting for the quote.
+vocab: valider | to approve, to validate | vah-lee-DAY
+example: Le chef valide le budget. | The boss approves the budget.
+vocab: intégrer | to include, to integrate | an-tay-GRAY
+example: J'intègre tes remarques. | I'm including your comments.
+
+[grammar]
+grammar: The futur antérieur | Form it with the futur of avoir or être plus the past participle: j'aurai terminé, tu auras envoyé, il sera parti, nous aurons fini, elles seront arrivées. It describes an action that will be completed before another future action or a given time: d'ici vendredi, j'aurai terminé; quand tu auras envoyé le rapport, je le lirai. The participle agrees as in the passé composé.
+example: D'ici vendredi, j'aurai terminé. | By Friday, I'll have finished.
+example: Quand elle sera arrivée, nous commencerons. | When she has arrived, we'll start.
+grammar: Time connectors with the future | After quand, dès que, une fois que, après que and aussitôt que, use the futur antérieur for the first action when the main verb is in the futur: dès que tu l'auras envoyé, je le lirai. If both actions happen at the same time, use the futur simple: quand j'arriverai, je t'appellerai. Avant que takes the subjunctive: avant que tu partes, appelle-moi.
+example: Dès que tu l'auras envoyé, je le lirai. | As soon as you've sent it, I'll read it.
+example: Avant que tu partes, appelle-moi. | Before you leave, call me.
+
+[quiz]
+quiz: Which is the futur antérieur of “je termine”? | je terminerai | j'avais terminé | je terminais | j'aurai terminé | D | Futur of avoir + participle.
+quiz: Which sentence is correct? | Dès que tu l'auras envoyé, je le lirai. | Dès que tu l'enverras, je le lirai avant. | Dès que tu l'avais envoyé, je le lirai. | Dès que tu l'as envoyé, je le lirais. | A | Dès que + futur antérieur.
+quiz: What does “d'ici vendredi” mean? | since Friday | by Friday | from here to Friday | every Friday | B | D'ici = by.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

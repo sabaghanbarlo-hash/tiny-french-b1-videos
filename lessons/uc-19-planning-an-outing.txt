@@ -1,0 +1,47 @@
+title: Planning an Outing
+episode: UC19
+scene: town
+
+[story]
+Marinette: Bonjour, je voudrais savoir si le musée est ouvert le dimanche. | Hello, I'd like to know if the museum is open on Sundays.
+Adrien: Oui, de dix heures à dix-huit heures. Voulez-vous réserver des places ? | Yes, from ten to six. Would you like to book tickets?
+Marinette: Oui, pouvez-vous me dire combien coûte l'entrée pour deux personnes ? | Yes, can you tell me how much admission is for two people?
+Adrien: Quinze euros par adulte, avec un tarif réduit pour les étudiants. | Fifteen euros per adult, with a reduced rate for students.
+Marinette: Et je voudrais savoir s'il y a une visite guidée en français. | And I'd like to know if there's a guided tour in French.
+Adrien: Oui, tous les jours à quinze heures. Je vous conseille de réserver à l'avance. | Yes, every day at three p.m. I advise you to book in advance.
+
+[vocab]
+vocab: l'exposition | exhibition | lehk-spoh-zee-SYOHN
+example: Il y a une exposition sur Monet. | There's an exhibition on Monet.
+vocab: le tarif réduit | reduced rate | luh tah-REEF ray-DWEE
+example: Le tarif réduit est de dix euros. | The reduced rate is ten euros.
+vocab: la visite guidée | guided tour | lah vee-ZEET gee-DAY
+example: Je voudrais une visite guidée. | I'd like a guided tour.
+vocab: réserver des places | to book tickets / seats | ray-zehr-VAY day PLAHSS
+example: Je voudrais réserver deux places. | I'd like to book two seats.
+vocab: l'entrée | admission, entrance | lahn-TRAY
+example: L'entrée coûte quinze euros. | Admission costs fifteen euros.
+vocab: à l'avance | in advance | ah lah-VAHNSS
+example: Réservez à l'avance. | Book in advance.
+vocab: les horaires d'ouverture | opening hours | lay zoh-REHR doo-vehr-TEWR
+example: Quels sont les horaires d'ouverture ? | What are the opening hours?
+vocab: je voudrais savoir si | I'd like to know whether | zhuh voo-DREH sah-VWAHR see
+example: Je voudrais savoir si c'est ouvert. | I'd like to know whether it's open.
+vocab: pouvez-vous me dire | can you tell me | poo-vay voo muh DEER
+example: Pouvez-vous me dire l'heure ? | Can you tell me the time?
+
+[grammar]
+grammar: Indirect questions | To make a question more polite, put it inside je voudrais savoir or pouvez-vous me dire and use normal word order, with no inversion and no est-ce que: je voudrais savoir si le musée est ouvert, pouvez-vous me dire combien coûte l'entrée ?, quand le musée ferme, où se trouve l'entrée, comment réserver. The question word stays; the tone is softer.
+example: Je voudrais savoir si le musée est ouvert. | I'd like to know whether the museum is open.
+example: Pouvez-vous me dire combien coûte l'entrée ? | Can you tell me how much admission is?
+grammar: Booking and discounts | Reserve with réserver deux places pour dimanche. Ask for discounts with le tarif réduit, le tarif groupe, l'entrée gratuite. Check times with à quelle heure, jusqu'à quelle heure, tous les jours sauf le lundi. Advice: je vous conseille de réserver à l'avance.
+example: Je voudrais réserver deux places. | I'd like to book two seats.
+example: Tous les jours sauf le lundi. | Every day except Monday.
+
+[quiz]
+quiz: Which question is polite and indirect? | Quand ferme le musée ? | Le musée ferme quand ? | Quand est-ce que ferme le musée ? | Pouvez-vous me dire quand le musée ferme ? | D | Indirect question with normal word order.
+quiz: What does “tarif réduit” mean? | reduced rate | full price | free entry | night rate | A | Réduit = reduced.
+quiz: What does “à l'avance” mean? | at the end | in advance | in the past | in front | B | À l'avance = in advance.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

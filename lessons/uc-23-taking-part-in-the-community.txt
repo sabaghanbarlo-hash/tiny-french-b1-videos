@@ -1,0 +1,47 @@
+title: Taking Part in the Community
+episode: UC23
+scene: classroom
+
+[story]
+Adrien: Tu es bénévole dans une association, non ? | You're a volunteer in an association, aren't you?
+Marinette: Oui, je fais partie de celle qui organise des cours de français pour les nouveaux arrivants. | Yes, I'm part of the one that organises French classes for newcomers.
+Adrien: Et qui vient à tes cours ? | And who comes to your classes?
+Marinette: Surtout ceux qui viennent d'arriver et ceux dont les enfants vont à l'école ici. | Mainly those who have just arrived and those whose children go to school here.
+Adrien: C'est une belle façon de s'engager. | It's a great way to get involved.
+Marinette: Viens ! On cherche des gens motivés, comme celui qui m'a aidée à déménager. | Come along! We're looking for motivated people, like the one who helped me move.
+
+[vocab]
+vocab: le bénévole / la bénévole | volunteer | luh bay-nay-VOHL
+example: Je suis bénévole dans une association. | I'm a volunteer in an association.
+vocab: l'association | association, non-profit | lah-soh-syah-SYOHN
+example: Cette association aide les familles. | This association helps families.
+vocab: s'engager | to get involved | sahn-gah-ZHAY
+example: Je m'engage pour mon quartier. | I'm getting involved for my neighbourhood.
+vocab: organiser | to organise | ohr-gah-nee-ZAY
+example: Elle organise des cours. | She organises classes.
+vocab: faire partie de | to be part of | fehr par-TEE duh
+example: Je fais partie d'une association. | I'm part of an association.
+vocab: les nouveaux arrivants | newcomers | lay noo-VOH zah-ree-VAHN
+example: Des cours pour les nouveaux arrivants. | Classes for newcomers.
+vocab: la façon de | the way of | lah fah-SOHN duh
+example: C'est une belle façon de s'engager. | It's a great way to get involved.
+vocab: la collecte | collection (donations) | lah koh-LEHKT
+example: On organise une collecte de vêtements. | We're organising a clothes collection.
+vocab: motivé / motivée | motivated | moh-tee-VAY
+example: On cherche des gens motivés. | We're looking for motivated people.
+
+[grammar]
+grammar: Demonstrative pronouns | Celui, celle, ceux, celles replace 'the one' and are always followed by qui, que, dont, de or a preposition: celui qui m'a aidée, ceux dont les enfants vont à l'école ici, celle de mon quartier, ceux que j'ai rencontrés. They agree in gender and number with the noun they replace.
+example: Celui qui m'a aidée. | The one who helped me.
+example: Ceux dont les enfants vont à l'école. | Those whose children go to school.
+grammar: Getting involved | Verbs: s'engager, faire partie de, organiser, participer à, donner de son temps. Ask: tu as envie de t'engager ? Invite: viens, on cherche des gens motivés. Explain your motivation: je le fais parce que / pour que / c'est une belle façon de plus infinitive.
+example: Je fais partie d'une association. | I'm part of an association.
+example: C'est une belle façon de s'engager. | It's a great way to get involved.
+
+[quiz]
+quiz: Which pronoun replaces “les gens” in “___ qui viennent d'arriver”? | celui | celle | celles | ceux | D | Gens → masculine plural.
+quiz: What does “faire partie de” mean? | to be part of | to make a part of | to leave | to share | A | Faire partie de = belong to.
+quiz: What does “un bénévole” mean? | a volunteer's salary | a volunteer | a beginner | a member of staff | B | Bénévole = volunteer.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

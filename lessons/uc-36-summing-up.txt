@@ -1,0 +1,47 @@
+title: Summing Up
+episode: UC36
+scene: terrace
+
+[story]
+Marinette: Pour conclure, je résume : le vélo est sain, économique et rapide en ville. | To conclude, I'll sum up: cycling is healthy, economical and fast in town.
+Adrien: En fin de compte, le principal obstacle, c'est la sécurité. | In the end, the main obstacle is safety.
+Marinette: J'en conclus qu'il faudrait que la mairie construise plus de pistes cyclables. | I conclude that the town hall should build more bike lanes.
+Adrien: Il en résulte que plus de gens pourraient choisir le vélo. | It follows that more people could choose cycling.
+Marinette: En somme, le projet est utile, à condition qu'on s'en occupe sérieusement. | In short, the project is useful, provided it's taken seriously.
+Adrien: En un mot, c'est une bonne idée. Merci pour ton écoute ! | In a word, it's a good idea. Thanks for listening!
+
+[vocab]
+vocab: pour conclure | to conclude | poor kohn-KLEWR
+example: Pour conclure, je résume. | To conclude, I'll sum up.
+vocab: en résumé | in summary | ahn ray-zew-MAY
+example: En résumé, c'est une bonne idée. | In summary, it's a good idea.
+vocab: en fin de compte | in the end, all things considered | ahn fan duh KOHNT
+example: En fin de compte, c'est simple. | In the end, it's simple.
+vocab: en somme | in short | ahn SOHM
+example: En somme, tout va bien. | In short, all is well.
+vocab: j'en conclus que | I conclude from this that | zhahn kohn-KLEW kuh
+example: J'en conclus que c'est utile. | I conclude that it's useful.
+vocab: il en résulte que | it follows that | eel ahn ray-ZEWLT kuh
+example: Il en résulte que c'est mieux. | It follows that it's better.
+vocab: l'obstacle | obstacle | lohb-STAH-kluh
+example: Le principal obstacle, c'est le coût. | The main obstacle is the cost.
+vocab: construire | to build | kohn-STREWEER
+example: Il faut construire des pistes cyclables. | We need to build bike lanes.
+vocab: en un mot | in a word | ahn uhn MOH
+example: En un mot, c'est génial. | In a word, it's great.
+
+[grammar]
+grammar: Concluding phrases | Signal the end with pour conclure, en conclusion, en résumé, en somme, en fin de compte, tout compte fait. Draw consequences with il en résulte que plus indicative, j'en conclus que plus indicative, c'est pourquoi. State a recommendation with il faudrait que plus subjunctive: il faudrait que la mairie construise plus de pistes cyclables.
+example: Pour conclure, je résume. | To conclude, I'll sum up.
+example: J'en conclus que c'est une bonne idée. | I conclude that it's a good idea.
+grammar: Making a recommendation | Use the conditional for polite recommendations: il faudrait que plus subjunctive, on devrait plus infinitive, il serait préférable de plus infinitive, il vaudrait mieux que plus subjunctive. End with a clear sentence: en un mot, c'est une bonne idée. Thank your audience: merci pour votre attention / pour votre écoute.
+example: Il faudrait que la mairie construise des pistes. | The town hall should build lanes.
+example: Merci pour votre attention. | Thank you for your attention.
+
+[quiz]
+quiz: Which phrase signals a conclusion? | Par exemple | D'abord | Pour conclure | Au contraire | C | Pour conclure = to conclude.
+quiz: Which mood follows “il faudrait que”? | indicative | conditional | imperative | subjunctive | D | Il faudrait que + subjunctive.
+quiz: What does “en fin de compte” mean? | in the end | at the end of the account | after counting | never | A | En fin de compte = ultimately.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

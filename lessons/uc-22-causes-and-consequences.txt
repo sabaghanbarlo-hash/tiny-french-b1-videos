@@ -1,0 +1,47 @@
+title: Causes and Consequences
+episode: UC22
+scene: street
+
+[story]
+Marinette: Il y a beaucoup de circulation, car beaucoup de gens viennent en voiture au centre. | There's a lot of traffic, because many people come by car to the centre.
+Adrien: Comme il n'y a pas assez de parkings, ils tournent longtemps, si bien que l'air est pollué. | As there aren't enough car parks, they drive around for a long time, so that the air is polluted.
+Marinette: À cause de ça, les riverains se plaignent. Ils sont tellement fatigués du bruit qu'ils veulent déménager. | Because of that, residents complain. They're so tired of the noise that they want to move.
+Adrien: Puisque la situation s'aggrave, la mairie doit agir. C'est pourquoi on a lancé une pétition. | Since the situation is getting worse, the town hall has to act. That's why we started a petition.
+Marinette: Grâce à la pétition, on a obtenu une réunion publique. | Thanks to the petition, we got a public meeting.
+Adrien: Donc il y a de l'espoir ! | So there's hope!
+
+[vocab]
+vocab: la circulation | traffic | lah seer-kew-lah-SYOHN
+example: Il y a beaucoup de circulation. | There's a lot of traffic.
+vocab: pollué / polluée | polluted | poh-lew-AY
+example: L'air est pollué. | The air is polluted.
+vocab: le riverain | resident (of a street) | luh ree-vuh-RAN
+example: Les riverains se plaignent. | Residents are complaining.
+vocab: se plaindre | to complain | suh PLAN-druh
+example: Ils se plaignent du bruit. | They complain about the noise.
+vocab: s'aggraver | to get worse | sah-grah-VAY
+example: La situation s'aggrave. | The situation is getting worse.
+vocab: la pétition | petition | lah pay-tee-SYOHN
+example: On a lancé une pétition. | We started a petition.
+vocab: agir | to act | ah-ZHEER
+example: La mairie doit agir. | The town hall must act.
+vocab: l'espoir | hope | lehs-PWAHR
+example: Il y a de l'espoir. | There is hope.
+vocab: la réunion publique | public meeting | lah ray-ew-NYOHN pew-BLEEK
+example: Il y a une réunion publique jeudi. | There's a public meeting on Thursday.
+
+[grammar]
+grammar: Expressing cause | Parce que gives the real reason and can answer pourquoi: il y a du trafic parce que beaucoup de gens viennent en voiture. Car and puisque also give causes: puisque la situation s'aggrave, il faut agir. Comme at the start of a sentence gives a cause: comme il n'y a pas de parking, les gens tournent. Prepositions: à cause de, grâce à.
+example: Comme il pleut, je reste. | As it's raining, I'm staying.
+example: Puisque la situation s'aggrave, il faut agir. | Since the situation is getting worse, we must act.
+grammar: Expressing consequence | Donc and c'est pourquoi introduce a result: la situation s'aggrave, c'est pourquoi on a lancé une pétition. Si bien que plus indicative: ils tournent longtemps, si bien que l'air est pollué. Tellement que / si que plus indicative: ils sont tellement fatigués qu'ils veulent déménager. Compare with causes: parce que gives the cause, donc gives the effect.
+example: Ils sont tellement fatigués qu'ils veulent déménager. | They're so tired that they want to move.
+example: La situation s'aggrave, c'est pourquoi on agit. | The situation is getting worse, that's why we act.
+
+[quiz]
+quiz: Which connector introduces a result? | donc | parce que | puisque | car | A | Donc = therefore.
+quiz: Which expression gives a positive cause? | à cause de | grâce à | malgré | sauf | B | Grâce à = thanks to.
+quiz: Which connector is used when the reason is already known? | car | donc | puisque | si bien que | C | Puisque = since.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

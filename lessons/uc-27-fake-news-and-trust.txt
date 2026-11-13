@@ -1,0 +1,47 @@
+title: Trusting Information
+episode: UC27
+scene: terrace
+
+[story]
+Adrien: Tu as vu cette publication ? Elle dit que la mairie va supprimer tous les bus de nuit. | Did you see that post? It says the town hall is going to cancel all the night buses.
+Marinette: Je doute que ce soit vrai. Quelle est la source ? | I doubt it's true. What's the source?
+Adrien: Aucune. C'est peut-être une fausse information. | None. It's perhaps fake news.
+Marinette: Il se peut qu'elle ait été mal comprise. Il faudrait vérifier sur le site officiel. | It may have been misunderstood. We should check the official website.
+Adrien: Tu as raison. Sans doute que la mairie a déjà publié un démenti. | You're right. The town hall has probably already published a denial.
+Marinette: Je suis sûre que oui. On ne partage pas avant d'être certains. | I'm sure it has. We don't share before being certain.
+
+[vocab]
+vocab: la publication | post, publication | lah pew-blee-kah-SYOHN
+example: Cette publication est fausse. | This post is false.
+vocab: la source | source | lah SOORS
+example: Quelle est la source ? | What's the source?
+vocab: une fausse information | fake news | ewn fohs an-fohr-mah-SYOHN
+example: C'est une fausse information. | It's fake news.
+vocab: le démenti | denial, correction | luh day-mahn-TEE
+example: La mairie a publié un démenti. | The town hall published a denial.
+vocab: douter que | to doubt that | doo-TAY kuh
+example: Je doute que ce soit vrai. | I doubt it's true.
+vocab: peut-être que | perhaps | puh-TEH-truh kuh
+example: Peut-être que c'est faux. | Perhaps it's false.
+vocab: sans doute | probably | sahn DOOT
+example: Sans doute que c'est faux. | It's probably false.
+vocab: il se peut que | it may be that | eel suh PUH kuh
+example: Il se peut qu'elle se trompe. | She may be wrong.
+vocab: vérifier | to check, to verify | vay-ree-FYAY
+example: Il faut vérifier la source. | You have to check the source.
+
+[grammar]
+grammar: Probability and certainty | Certain: je suis sûr que plus indicative, il est certain que plus indicative, bien sûr. Probable: sans doute, probablement, peut-être. Possible: il est possible que, il se peut que plus subjunctive. Doubt: je doute que, je ne suis pas sûr que plus subjunctive.
+example: Je suis sûre que c'est vrai. | I'm sure it's true.
+example: Il se peut qu'elle ait été mal comprise. | It may have been misunderstood.
+grammar: The past subjunctive | To talk about something that already happened after il se peut que or je doute que, use the past subjunctive: subjunctive of avoir or être plus participle. Il se peut qu'elle ait été mal comprise. Je doute qu'il soit venu. Form: que j'aie fait, que tu aies été, qu'il ait dit, que nous soyons partis.
+example: Je doute qu'il soit venu. | I doubt he came.
+example: Il se peut qu'elle ait menti. | She may have lied.
+
+[quiz]
+quiz: Which verb form follows “je doute que”? | indicative | futur | impératif | subjunctive | D | Doute que + subjunctive.
+quiz: What does “sans doute” mean? | probably | without doubt, certainly | never | doubtfully | A | In everyday French it means probably.
+quiz: Which sentence expresses certainty? | Je doute que ce soit vrai. | Je suis sûre que c'est vrai. | Il se peut que ce soit vrai. | Peut-être que c'est vrai. | B | Sûr que + indicative.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

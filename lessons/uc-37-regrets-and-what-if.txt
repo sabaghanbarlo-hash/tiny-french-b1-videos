@@ -1,0 +1,47 @@
+title: Regrets and What-Ifs
+episode: UC37
+scene: park
+
+[story]
+Marinette: J'aurais dû prendre le train de neuf heures. Si j'avais su, j'aurais quitté la maison plus tôt. | I should have taken the nine o'clock train. If I'd known, I would have left home earlier.
+Adrien: Moi, j'aurais voulu apprendre le piano quand j'étais petit. | I would have liked to learn the piano when I was little.
+Marinette: Si tu avais commencé à dix ans, tu aurais pu jouer dans un orchestre ! | If you had started at ten, you could have played in an orchestra!
+Adrien: Peut-être. Mais je n'aurais pas voyagé autant, et je ne t'aurais pas rencontrée. | Maybe. But I wouldn't have travelled as much, and I wouldn't have met you.
+Marinette: Alors je ne regrette rien. Si j'étais restée à Paris, je n'aurais pas eu cette vie. | Then I don't regret anything. If I'd stayed in Paris, I wouldn't have this life.
+Adrien: On dit qu'il vaut mieux avoir des remords que des regrets, mais je préfère ni l'un ni l'autre ! | They say it's better to have remorse than regrets, but I prefer neither!
+
+[vocab]
+vocab: j'aurais dû | I should have | zhoh-REH dew
+example: J'aurais dû partir plus tôt. | I should have left earlier.
+vocab: j'aurais voulu | I would have liked to | zhoh-REH voo-LEW
+example: J'aurais voulu apprendre le piano. | I would have liked to learn the piano.
+vocab: j'aurais pu | I could have | zhoh-REH PEW
+example: J'aurais pu rester. | I could have stayed.
+vocab: si j'avais su | if I had known | see zhah-VEH SEW
+example: Si j'avais su, je serais venu. | If I'd known, I would have come.
+vocab: le regret | regret | luh ruh-GREH
+example: Je n'ai aucun regret. | I have no regrets.
+vocab: le remords | remorse | luh ruh-MOHR
+example: Il a des remords. | He feels remorse.
+vocab: un orchestre | orchestra | uhn nohr-KEH-struh
+example: Il jouerait dans un orchestre. | He would play in an orchestra.
+vocab: rencontrer | to meet | rahn-kohn-TRAY
+example: Je t'ai rencontrée à Lyon. | I met you in Lyon.
+vocab: autant | as much | oh-TAHN
+example: Je n'aurais pas voyagé autant. | I wouldn't have travelled as much.
+
+[grammar]
+grammar: The conditionnel passé | Form it with the conditional of avoir or être plus the past participle: j'aurais dû, tu aurais pu, il aurait voulu, nous serions partis, elles seraient venues. It expresses regret, reproach or something that did not happen: j'aurais dû prendre le train; tu aurais pu me prévenir. The participle agrees as usual: elle serait venue.
+example: J'aurais dû partir plus tôt. | I should have left earlier.
+example: Elle serait venue si elle avait su. | She would have come if she had known.
+grammar: Si + plus-que-parfait, conditionnel passé | For an unreal condition in the past, use si plus plus-que-parfait in the condition and the conditionnel passé in the result: si j'avais su, j'aurais quitté la maison plus tôt; si tu avais commencé à dix ans, tu aurais pu jouer dans un orchestre. Never put the conditional after si. Compare: si plus imparfait, conditionnel présent for the present.
+example: Si j'avais su, je serais venu. | If I had known, I would have come.
+example: Si tu étais resté, tu aurais été heureux. | If you had stayed, you would have been happy.
+
+[quiz]
+quiz: Which is the conditionnel passé of “je pars”? | je partirais | je serais parti | je suis parti | je serai parti | B | Conditional of être + participle.
+quiz: Which sentence expresses regret? | Je vais partir plus tôt. | Je partais plus tôt. | J'aurais dû partir plus tôt. | Je pars plus tôt. | C | Aurais dû = should have.
+quiz: Which tense follows “si” in an unreal past condition? | conditionnel | futur | imparfait | plus-que-parfait | D | Si + plus-que-parfait.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

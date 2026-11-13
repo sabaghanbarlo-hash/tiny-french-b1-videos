@@ -1,0 +1,47 @@
+title: Everyday Ecology
+episode: UC21
+scene: home
+
+[story]
+Marinette: Chez moi, je trie mes déchets pour que tout soit recyclé. | At home, I sort my waste so that everything is recycled.
+Adrien: Moi, j'évite de gaspiller l'eau. Je prends des douches courtes. | I avoid wasting water. I take short showers.
+Marinette: J'ai aussi arrêté d'acheter des bouteilles en plastique. J'utilise une gourde. | I've also stopped buying plastic bottles. I use a water bottle.
+Adrien: C'est bien. Il faut que chacun fasse un effort, même petit. | That's good. Everyone has to make an effort, even a small one.
+Marinette: Je prends le vélo afin que l'air de la ville soit plus propre. | I take the bike so that the city air is cleaner.
+Adrien: N'oublie pas d'éteindre les lumières avant de partir. | Don't forget to switch off the lights before leaving.
+
+[vocab]
+vocab: trier les déchets | to sort waste | tree-AY lay day-SHEH
+example: Je trie mes déchets. | I sort my waste.
+vocab: recycler | to recycle | ruh-see-KLAY
+example: On recycle le verre. | We recycle glass.
+vocab: gaspiller | to waste | gahs-pee-YAY
+example: Il ne faut pas gaspiller l'eau. | We mustn't waste water.
+vocab: économiser | to save (energy, money) | ay-koh-noh-mee-ZAY
+example: J'économise l'énergie. | I save energy.
+vocab: la gourde | water bottle (reusable) | lah GOORD
+example: Je remplis ma gourde. | I fill my water bottle.
+vocab: éteindre | to switch off | ay-TAN-druh
+example: Éteins la lumière. | Switch off the light.
+vocab: éviter de | to avoid (doing) | ay-vee-TAY duh
+example: J'évite de prendre la voiture. | I avoid taking the car.
+vocab: pour que | so that | poor KUH
+example: Je trie pour que tout soit recyclé. | I sort so that everything is recycled.
+vocab: afin que | so that (formal) | ah-FAN kuh
+example: Je prends le vélo afin que l'air soit propre. | I take the bike so that the air is clean.
+
+[grammar]
+grammar: Purpose with pour que / afin que | To say why you do something when the subject changes, use pour que or afin que plus subjunctive: je trie pour que tout soit recyclé, je prends le vélo afin que l'air soit propre. If the subject is the same, use pour or afin de plus infinitive: je trie pour recycler, je prends le vélo afin de réduire la pollution.
+example: Je trie pour que tout soit recyclé. | I sort so that everything is recycled.
+example: Je prends le vélo pour réduire la pollution. | I take the bike to reduce pollution.
+grammar: Eco-gestures and advice | Give advice with the tu imperative, with il faut que plus subjunctive, and with éviter de plus infinitive. Negative commands: ne gaspille pas l'eau. N'oublie pas de plus infinitive: n'oublie pas d'éteindre les lumières.
+example: N'oublie pas d'éteindre les lumières. | Don't forget to switch off the lights.
+example: Il faut que chacun fasse un effort. | Everyone has to make an effort.
+
+[quiz]
+quiz: Which sentence is correct? | Je trie pour que tout est recyclé. | Je trie pour que tout soit recyclé. | Je trie pour tout soit recyclé. | Je trie pour que tout sera recyclé. | B | Pour que + subjunctive.
+quiz: What is the subjunctive of “être” after “pour que tout”? | est | sera | soit | serait | C | Que tout soit.
+quiz: When do you use “pour” + infinitive? | when the subjects differ | after pas | in questions | when the subject is the same | D | Same subject → infinitive.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

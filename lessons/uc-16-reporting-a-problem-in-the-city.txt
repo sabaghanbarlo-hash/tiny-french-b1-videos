@@ -1,0 +1,47 @@
+title: Reporting a Problem in the City
+episode: UC16
+scene: street
+
+[story]
+Marinette: Regarde ce lampadaire : il est en panne depuis deux semaines. | Look at this street light: it's been broken for two weeks.
+Adrien: Et il y a un nid-de-poule énorme juste devant. C'est dangereux pour les cyclistes. | And there's a huge pothole right in front. It's dangerous for cyclists.
+Marinette: Il faudrait que la mairie répare tout ça avant l'hiver. | The town hall should repair all that before winter.
+Adrien: On peut le signaler sur leur site. Il suffit de prendre une photo. | We can report it on their website. You just need to take a photo.
+Marinette: Je vais écrire : « Le lampadaire de la rue Victor-Hugo est en panne depuis le 28 octobre. » | I'll write: “The street light on rue Victor-Hugo has been broken since 28 October.”
+Adrien: Ajoute que le trou n'a pas été réparé malgré les travaux de la semaine dernière. | Add that the hole hasn't been repaired despite last week's work.
+
+[vocab]
+vocab: le lampadaire | street light | luh lahm-pah-DEHR
+example: Le lampadaire est en panne. | The street light is broken.
+vocab: le nid-de-poule | pothole | luh nee-duh-POOL
+example: Il y a un nid-de-poule dans la rue. | There's a pothole in the street.
+vocab: dangereux / dangereuse | dangerous | dahn-zhuh-RUH
+example: C'est dangereux pour les cyclistes. | It's dangerous for cyclists.
+vocab: signaler | to report | see-nyah-LAY
+example: Je signale le problème à la mairie. | I'm reporting the problem to the town hall.
+vocab: réparer | to repair | ray-pah-RAY
+example: La mairie doit réparer la route. | The town hall must repair the road.
+vocab: il faudrait que | it should be that | eel foh-DREH kuh
+example: Il faudrait que quelqu'un répare ça. | Someone should repair that.
+vocab: malgré | despite | mahl-GRAY
+example: Malgré les travaux, le trou est là. | Despite the work, the hole is still there.
+vocab: avant l'hiver | before winter | ah-VAHN lee-VEHR
+example: Réparez avant l'hiver. | Repair before winter.
+vocab: le cycliste | cyclist | luh see-KLEEST
+example: Les cyclistes ont peur. | Cyclists are scared.
+
+[grammar]
+grammar: Il faudrait que + subjunctive | Il faudrait que plus subjunctive gives a softer, more polite recommendation than il faut que: il faudrait que la mairie répare ça. It is common when talking about what authorities or other people should do. After il faudrait que, use the same subjunctive forms as after il faut que: répare, fasse, soit, ait.
+example: Il faudrait que la mairie répare ça. | The town hall should repair that.
+example: Il faudrait que nous soyons plus attentifs. | We should be more careful.
+grammar: Depuis, malgré and passive in reports | Describe how long a problem has existed with depuis plus date or duration: en panne depuis deux semaines, depuis le 28 octobre. Add malgré plus noun for contrast: malgré les travaux. Use the passive to say what was or wasn't done: le trou n'a pas été réparé. Write clearly: lieu, date, problème, demande.
+example: Le lampadaire est en panne depuis deux semaines. | The street light has been broken for two weeks.
+example: Le trou n'a pas été réparé malgré les travaux. | The hole hasn't been repaired despite the work.
+
+[quiz]
+quiz: Which sentence is a polite recommendation? | La mairie répare ça ! | La mairie réparera ça hier. | Il faudrait que la mairie répare ça. | Il faut que la mairie répare ça tout de suite ! | C | Il faudrait que + subjunctive.
+quiz: What does “malgré” mean? | because of | thanks to | before | despite | D | Malgré = despite.
+quiz: What is “un nid-de-poule”? | a pothole | a bird's nest | a hen house | a street sign | A | Nid-de-poule = pothole.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

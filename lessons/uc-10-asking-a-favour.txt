@@ -1,0 +1,47 @@
+title: Asking a Favour
+episode: UC10
+scene: street
+
+[story]
+Marinette: Adrien, pourrais-tu me rendre un petit service ? | Adrien, could you do me a small favour?
+Adrien: Bien sûr, dis-moi. | Of course, tell me.
+Marinette: Ça te dérange si j'emprunte ton vélo ce week-end ? | Do you mind if I borrow your bike this weekend?
+Adrien: Pas du tout. Je te le prête volontiers. Je te le donne demain soir. | Not at all. I'll gladly lend it to you. I'll give it to you tomorrow evening.
+Marinette: Merci ! Je te le rends lundi matin sans faute. | Thanks! I'll give it back to you on Monday morning without fail.
+Adrien: Pas de souci. Mais attention aux pneus, je les ai changés la semaine dernière. | No worries. But be careful with the tyres, I changed them last week.
+
+[vocab]
+vocab: rendre un service | to do a favour | RAHN-druh uhn sehr-VEESS
+example: Tu peux me rendre un service ? | Can you do me a favour?
+vocab: emprunter | to borrow | ahn-pruhn-TAY
+example: J'emprunte ton vélo. | I'm borrowing your bike.
+vocab: prêter | to lend | preh-TAY
+example: Je te prête mon vélo. | I'll lend you my bike.
+vocab: rendre | to give back | RAHN-druh
+example: Je te rends ton vélo lundi. | I'll give your bike back on Monday.
+vocab: ça te dérange si… ? | do you mind if…? | sah tuh day-RAHNZH see
+example: Ça te dérange si j'ouvre la fenêtre ? | Do you mind if I open the window?
+vocab: volontiers | gladly | voh-lohn-TYAY
+example: Je te le prête volontiers. | I'll gladly lend it to you.
+vocab: sans faute | without fail | sahn FOHT
+example: Je te le rends sans faute. | I'll give it back without fail.
+vocab: pas de souci | no worries | pah duh soo-SEE
+example: Pas de souci, prends-le. | No worries, take it.
+vocab: le pneu | tyre | luh PNUH
+example: J'ai changé les pneus. | I changed the tyres.
+
+[grammar]
+grammar: Double object pronouns | When you replace two objects, the indirect pronoun comes before the direct one: je te le prête, il me la donne, elle nous les envoie. With lui and leur, the direct pronoun comes first: je le lui prête, je la leur donne, je les lui rends. In an affirmative command the direct pronoun comes first: prête-le-moi, donne-la-lui.
+example: Je te le prête. | I'll lend it to you.
+example: Je le lui rends demain. | I'll give it back to him tomorrow.
+grammar: Asking for permission and favours | Ask for a favour: pourrais-tu / pourriez-vous me rendre un service ? ça te dérange si plus present: ça te dérange si j'emprunte ton vélo ? Answer yes with pas du tout, volontiers, pas de souci. Answer no politely: désolé, j'en ai besoin ce week-end. Say thank you with merci beaucoup, c'est gentil.
+example: Ça te dérange si j'ouvre la fenêtre ? | Do you mind if I open the window?
+example: Pas du tout, je t'en prie. | Not at all, go ahead.
+
+[quiz]
+quiz: Which is correct for “I'll lend it to you”? | Je te le prête. | Je le te prête. | Je prête te le. | Je te lui prête. | A | Indirect (te) before direct (le).
+quiz: What does “ça te dérange si… ?” mean? | does it matter that…? | do you mind if…? | are you angry that…? | do you need…? | B | Dérange = bother.
+quiz: What does “sans faute” mean? | without faults | at fault | without fail | no problem | C | Sans faute = without fail.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Negotiating Conditions
+episode: UC32
+scene: terrace
+
+[story]
+Marinette: Je voudrais discuter de mes horaires. J'aimerais pouvoir faire du télétravail deux jours par semaine. | I'd like to discuss my hours. I'd like to be able to work from home two days a week.
+Adrien: Pourquoi pas, à moins que l'équipe ait besoin de vous sur place. | Why not, unless the team needs you on site.
+Marinette: Je serais disponible au cas où il y aurait une urgence, bien sûr. | I would be available in case there was an emergency, of course.
+Adrien: Sauf si vous avez des réunions importantes, on peut essayer pendant trois mois. | Unless you have important meetings, we can try for three months.
+Marinette: Et si cela fonctionne, on pourrait le garder ? | And if it works, could we keep it?
+Adrien: À condition que les résultats restent bons, oui. | Provided the results stay good, yes.
+
+[vocab]
+vocab: les horaires | working hours | lay zoh-REHR
+example: Je voudrais discuter de mes horaires. | I'd like to discuss my hours.
+vocab: le télétravail | remote work | luh tay-lay-trah-VAHY
+example: Je voudrais du télétravail. | I'd like remote work.
+vocab: sur place | on site | sewr PLAHSS
+example: On a besoin de vous sur place. | We need you on site.
+vocab: disponible | available | dees-poh-NEE-bluh
+example: Je suis disponible le lundi. | I'm available on Mondays.
+vocab: au cas où | in case | oh kah OO
+example: Au cas où il y aurait une urgence. | In case there was an emergency.
+vocab: à moins que | unless (+ subjunctive) | ah MWAN kuh
+example: À moins que l'équipe ait besoin de vous. | Unless the team needs you.
+vocab: sauf si | unless (+ indicative) | SOHF see
+example: Sauf si vous avez une réunion. | Unless you have a meeting.
+vocab: essayer pendant trois mois | to try for three months | eh-say-YAY pahn-DAHN trwah MWAH
+example: On essaie pendant trois mois. | We'll try for three months.
+vocab: les résultats | results | lay ray-zewl-TAH
+example: Les résultats restent bons. | The results remain good.
+
+[grammar]
+grammar: Au cas où, à moins que, sauf si | Au cas où plus conditional presents a precaution: au cas où il y aurait une urgence. À moins que plus subjunctive means unless: à moins que l'équipe ait besoin de vous. Sauf si plus indicative also means unless, in a simpler way: sauf si vous avez des réunions. À condition que plus subjunctive: provided that.
+example: Au cas où il y aurait une urgence, je serais joignable. | In case there was an emergency, I'd be reachable.
+example: Sauf si vous avez des réunions, on peut essayer. | Unless you have meetings, we can try.
+grammar: Negotiating politely | Start with what you want, give reasons, offer something in return, and propose a trial. Use the conditional to stay polite and avoid je veux or il faut que tu
+example: J'aimerais pouvoir faire du télétravail. | I'd like to be able to work from home.
+example: On pourrait essayer pendant trois mois. | We could try for three months.
+
+[quiz]
+quiz: Which mood follows “à moins que”? | indicative | conditional | subjunctive | imperative | C | À moins que + subjunctive.
+quiz: What does “sauf si” mean? | because | so that | although | unless | D | Sauf si = unless.
+quiz: Which tense follows “au cas où”? | conditional | futur | subjunctive | imperative | A | Au cas où + conditional.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

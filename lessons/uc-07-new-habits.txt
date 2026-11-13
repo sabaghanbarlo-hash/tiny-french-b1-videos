@@ -1,0 +1,47 @@
+title: New Habits
+episode: UC7
+scene: park
+
+[story]
+Marinette: Tu as l'air en forme ! Qu'est-ce qui a changé ? | You look fit! What has changed?
+Adrien: Depuis que j'ai arrêté de prendre l'ascenseur, je me sens beaucoup mieux. | Since I stopped taking the lift, I feel much better.
+Marinette: Ça fait longtemps que tu fais ça ? | Have you been doing that for a long time?
+Adrien: Ça fait six mois que je monte à pied. Au début, c'était dur. | I've been walking up for six months. At first it was hard.
+Marinette: Et depuis que tu cuisines plus, tu dors mieux ? | And since you've been cooking more, do you sleep better?
+Adrien: Oui, je pense que tout est lié. Il suffit de commencer par un petit changement. | Yes, I think everything is connected. You only need to start with one small change.
+
+[vocab]
+vocab: depuis que | since (+ clause) | duh-PWEE kuh
+example: Depuis que j'habite ici, je dors mieux. | Since I've lived here, I sleep better.
+vocab: ça fait… que | it's been… since | sah FEH… kuh
+example: Ça fait six mois que j'habite ici. | I've lived here for six months.
+vocab: il y a… que | it's been… that | eel ee AH… kuh
+example: Il y a six mois que je cours. | I've been running for six months.
+vocab: l'habitude | habit | lah-bee-TEWD
+example: C'est une bonne habitude. | It's a good habit.
+vocab: l'ascenseur | lift, elevator | lah-sahn-SUHR
+example: Je prends l'escalier, pas l'ascenseur. | I take the stairs, not the lift.
+vocab: se sentir mieux | to feel better | suh sahn-TEER MYUH
+example: Je me sens beaucoup mieux. | I feel much better.
+vocab: lié / liée | linked, connected | lee-AY
+example: Tout est lié. | Everything is connected.
+vocab: il suffit de | all you need to do is | eel sew-FEE duh
+example: Il suffit de commencer. | All you need to do is start.
+vocab: dur / dure | hard, tough | DEWR
+example: Au début, c'était dur. | At first it was hard.
+
+[grammar]
+grammar: Depuis que, ça fait… que | Depuis que plus clause says since something started: depuis que j'ai arrêté de prendre l'ascenseur. Ça fait plus duration plus que plus present says how long something has been going on: ça fait six mois que je monte à pied. Il y a plus duration plus que works the same way. All use the present for a situation that continues.
+example: Depuis que j'habite ici, je dors mieux. | Since I've lived here, I sleep better.
+example: Ça fait six mois que je monte à pied. | I've been walking up for six months.
+grammar: Advice about habits | Use il suffit de plus infinitive for a simple step: il suffit de commencer. Use pour plus infinitive for a goal: pour dormir mieux, je me couche plus tôt. Use il vaut mieux plus infinitive: il vaut mieux faire un petit changement chaque semaine. Use the conditional for friendly advice: tu devrais commencer par
+example: Il suffit de commencer. | All you need to do is start.
+example: Il vaut mieux changer petit à petit. | It's better to change little by little.
+
+[quiz]
+quiz: Which sentence is correct? | Ça fait six mois que je suis monté à pied. | Ça fait six mois depuis que je monte à pied. | Ça fait six mois je monte à pied. | Ça fait six mois que je monte à pied. | D | Ça fait… que + present.
+quiz: What does “il suffit de” mean? | all you need to do is | it is not enough to | it is forbidden to | it is better to | A | Il suffit de = all you have to do is.
+quiz: What does “tout est lié” mean? | everything is free | everything is connected | everything is late | everything is fine | B | Lié = linked.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

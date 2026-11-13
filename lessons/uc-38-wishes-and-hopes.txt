@@ -1,0 +1,47 @@
+title: Wishes and Hopes
+episode: UC38
+scene: terrace
+
+[story]
+Marinette: Je souhaite que cette année soit plus calme que la précédente. | I hope this year will be calmer than the last.
+Adrien: J'espère que tout se passera bien au travail et que nous aurons le temps de voyager. | I hope everything goes well at work and that we'll have time to travel.
+Marinette: J'aimerais que nous partions en Italie au printemps. Pourvu qu'il fasse beau ! | I'd like us to go to Italy in spring. Let's hope the weather is nice!
+Adrien: Je voudrais aussi que ma sœur réussisse son examen. | I'd also like my sister to pass her exam.
+Marinette: Je suis sûre qu'elle y arrivera. Elle travaille tellement ! | I'm sure she'll manage. She works so hard!
+Adrien: Je vous souhaite à tous une très bonne année, pleine de belles surprises. | I wish you all a very good year, full of nice surprises.
+
+[vocab]
+vocab: souhaiter que | to wish that (+ subjunctive) | sweh-TAY kuh
+example: Je souhaite que tu réussisses. | I hope you succeed.
+vocab: espérer que | to hope that (+ indicative) | ehs-pay-RAY kuh
+example: J'espère que tu viendras. | I hope you'll come.
+vocab: pourvu que | let's hope that, provided that | poor-VEW kuh
+example: Pourvu qu'il fasse beau ! | Let's hope the weather is nice!
+vocab: j'aimerais que | I'd like (someone) to | zheh-meh-REH kuh
+example: J'aimerais que tu viennes. | I'd like you to come.
+vocab: la précédente | the previous one | lah pray-say-DAHNT
+example: Cette année et la précédente. | This year and the previous one.
+vocab: réussir un examen | to pass an exam | ray-ew-SEER uhn nehg-zah-MAN
+example: Elle va réussir son examen. | She's going to pass her exam.
+vocab: y arriver | to manage, to succeed | ee ah-ree-VAY
+example: Elle y arrivera. | She'll manage.
+vocab: la surprise | surprise | lah sewr-PREEZ
+example: Une année pleine de surprises. | A year full of surprises.
+vocab: je vous souhaite | I wish you | zhuh voo sweh-TEH
+example: Je vous souhaite une bonne année. | I wish you a happy new year.
+
+[grammar]
+grammar: Wishing: subjunctive or indicative? | Souhaiter que, vouloir que, aimer que, j'aimerais que plus subjunctive: je souhaite que cette année soit plus calme, j'aimerais que nous partions. Espérer que plus indicative: j'espère que tout se passera bien. Pourvu que plus subjunctive, as an exclamation: pourvu qu'il fasse beau ! If the subject is the same, use the infinitive: je souhaite réussir, j'espère partir.
+example: Je souhaite que tu réussisses. | I hope you succeed.
+example: J'espère que tout se passera bien. | I hope everything goes well.
+grammar: Wishing someone well | Je vous souhaite plus noun: je vous souhaite une bonne année, bon courage. Bonne chance ! Félicitations ! Bon voyage ! Tous mes vœux ! Compare with the wish for oneself: j'aimerais plus infinitive, je voudrais que plus subjunctive, j'ai envie de. Expressions of hope: avec un peu de chance, si tout va bien, touchons du bois.
+example: Je vous souhaite une très bonne année. | I wish you a very good year.
+example: Si tout va bien, nous partirons. | If all goes well, we'll leave.
+
+[quiz]
+quiz: Which mood follows “souhaiter que”? | subjunctive | indicative | conditional | imperative | A | Souhaiter que + subjunctive.
+quiz: Which mood follows “espérer que”? | subjunctive | indicative | conditional | imperative | B | Espérer que + indicative.
+quiz: What does “y arriver” mean? | to arrive there | to get lost | to manage it | to give up | C | Y arriver = manage.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

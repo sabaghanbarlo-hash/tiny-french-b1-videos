@@ -1,0 +1,48 @@
+title: Writing a Short Biography
+episode: UC4
+scene: home
+
+[story]
+Adrien: Je lis le début : « Ma grand-mère est née en 1950 dans un petit village de Bourgogne. » | I'll read the start: “My grandmother was born in 1950 in a small village in Burgundy.”
+Marinette: Elle a fait des études ? | Did she go to school?
+Adrien: Elle a arrêté l'école à quatorze ans, puis elle a travaillé dans une boulangerie. | She left school at fourteen, then worked in a bakery.
+Marinette: Et elle s'est mariée à quel âge ? | And how old was she when she got married?
+Adrien: Elle s'est mariée à vingt-deux ans. Quelques années plus tard, ils ont ouvert leur propre boulangerie. | She got married at twenty-two. A few years later, they opened their own bakery.
+Marinette: Et finalement ? | And finally?
+Adrien: Finalement, elle a pris sa retraite en 2012. Elle fait encore des gâteaux tous les dimanches. | Finally, she retired in 2012. She still makes cakes every Sunday.
+
+[vocab]
+vocab: la biographie | biography | lah bee-oh-grah-FEE
+example: J'écris une biographie. | I'm writing a biography.
+vocab: se marier | to get married | suh mah-RYAY
+example: Elle s'est mariée à vingt-deux ans. | She got married at twenty-two.
+vocab: arrêter l'école | to leave school | ah-reh-TAY lay-KOHL
+example: Elle a arrêté l'école à quatorze ans. | She left school at fourteen.
+vocab: prendre sa retraite | to retire | PRAHN-druh sah ruh-TREHT
+example: Elle a pris sa retraite en 2012. | She retired in 2012.
+vocab: la boulangerie | bakery | lah boo-lahn-zhuh-REE
+example: Ils ont ouvert une boulangerie. | They opened a bakery.
+vocab: ouvrir | to open | oo-VREER
+example: Ils ont ouvert leur boulangerie. | They opened their bakery.
+vocab: quelques années plus tard | a few years later | kehl-kuh zah-NAY plew TAHR
+example: Quelques années plus tard, ils ont déménagé. | A few years later, they moved.
+vocab: entre-temps | meanwhile, in the meantime | ahn-truh-TAHN
+example: Entre-temps, il avait changé de travail. | Meanwhile, he had changed jobs.
+vocab: finalement | finally, in the end | fee-nahl-MAHN
+example: Finalement, elle a pris sa retraite. | In the end, she retired.
+
+[grammar]
+grammar: Reflexive verbs in the passé composé | Reflexive verbs use être: je me suis marié, elle s'est mariée, ils se sont rencontrés. The participle agrees with the reflexive pronoun when it is the direct object: elle s'est mariée, mais elle s'est acheté une maison. In the negative: elle ne s'est pas mariée.
+example: Elle s'est mariée à vingt-deux ans. | She got married at twenty-two.
+example: Ils se sont rencontrés en 1971. | They met in 1971.
+grammar: Narrative connectors | In a written story, link events with d'abord, puis, ensuite, quelques années plus tard, entre-temps, finalement, enfin. Use the passé composé for events and the imparfait for descriptions and habits: elle travaillait dans une boulangerie quand elle a rencontré son mari. Avoid starting every sentence with the subject: vary with time phrases.
+example: Quelques années plus tard, ils ont ouvert une boulangerie. | A few years later, they opened a bakery.
+example: Finalement, elle a pris sa retraite. | In the end, she retired.
+
+[quiz]
+quiz: How do you say “She got married”? | Elle a marié. | Elle est mariée hier. | Elle s'est mariée. | Elle s'a mariée. | C | Reflexive verbs take être.
+quiz: Which connector means “a few years later”? | il y a quelques années | depuis quelques années | pendant quelques années | quelques années plus tard | D | Plus tard = later.
+quiz: Which tense describes a past habit in a story? | imparfait | passé composé | futur | conditionnel | A | Habits = imparfait.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

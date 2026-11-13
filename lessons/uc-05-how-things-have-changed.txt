@@ -1,0 +1,47 @@
+title: How Things Have Changed
+episode: UC5
+scene: street
+
+[story]
+Adrien: Tu vois, ce quartier a beaucoup changé depuis mon enfance. | You see, this neighbourhood has changed a lot since my childhood.
+Marinette: Ah oui ? Il était comment, à l'époque ? | Oh yes? What was it like back then?
+Adrien: Il y avait des petits commerces partout. Maintenant, il y a de plus en plus de cafés et de moins en moins de boutiques. | There were small shops everywhere. Now there are more and more cafés and fewer and fewer shops.
+Marinette: Le centre est devenu très touristique. | The centre has become very touristy.
+Adrien: Oui. Autrefois, on connaissait tous ses voisins. Désormais, on ne se parle presque plus. | Yes. In the past, you knew all your neighbours. Nowadays, we hardly talk to each other any more.
+Marinette: C'est dommage, mais la ville est devenue plus propre et plus calme. | It's a pity, but the city has become cleaner and quieter.
+
+[vocab]
+vocab: changer | to change | shahn-ZHAY
+example: La ville a beaucoup changé. | The city has changed a lot.
+vocab: devenir | to become | duh-vuh-NEER
+example: Le centre est devenu touristique. | The centre has become touristy.
+vocab: évoluer | to evolve | ay-voh-lew-AY
+example: La ville évolue vite. | The city is evolving fast.
+vocab: de plus en plus | more and more | duh plew zahn PLEW
+example: Il y a de plus en plus de cafés. | There are more and more cafés.
+vocab: de moins en moins | less and less | duh mwan zahn MWAN
+example: Il y a de moins en moins de boutiques. | There are fewer and fewer shops.
+vocab: à l'époque | at that time | ah lay-POHK
+example: À l'époque, tout était différent. | At that time, everything was different.
+vocab: autrefois | in the past | oh-truh-FWAH
+example: Autrefois, on connaissait ses voisins. | In the past, people knew their neighbours.
+vocab: désormais | from now on, nowadays | day-zohr-MEH
+example: Désormais, tout est numérique. | Nowadays, everything is digital.
+vocab: le commerce | shop, trade | luh koh-MEHRS
+example: Les petits commerces ferment. | The small shops are closing.
+
+[grammar]
+grammar: Devenir and changer | Devenir is conjugated with être: je deviens, il devient, nous devenons; passé composé: il est devenu. It is followed by an adjective or noun without article for jobs: elle est devenue professeur. Changer is regular and changer de plus noun means to switch: changer de ville, changer d'avis.
+example: Le centre est devenu touristique. | The centre has become touristy.
+example: Elle est devenue professeur. | She became a teacher.
+grammar: De plus en plus, de moins en moins | These phrases say something increases or decreases gradually. With an adjective: de plus en plus cher. With a verb: on voyage de plus en plus. With a noun, add de: de plus en plus de touristes, de moins en moins de boutiques. For time: autrefois and à l'époque look back; désormais looks forward from now.
+example: Il y a de plus en plus de touristes. | There are more and more tourists.
+example: On se parle de moins en moins. | We talk to each other less and less.
+
+[quiz]
+quiz: How do you say “more and more tourists”? | de plus en plus touristes | de plus en plus de touristes | plus et plus de touristes | de plus de touristes | B | De plus en plus de + noun.
+quiz: What does “désormais” mean? | in the past | at that time | from now on, nowadays | suddenly | C | Désormais = from now on.
+quiz: Which expression looks back at the past? | désormais | de plus en plus | bientôt | à l'époque | D | À l'époque = at that time.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Debating a Local Project
+episode: UC24
+scene: terrace
+
+[story]
+Marinette: Je suis pour la fermeture de la rue aux voitures. Je pense que ce serait plus sûr pour les enfants. | I'm for closing the street to cars. I think it would be safer for children.
+Adrien: Bien que l'idée soit bonne, je ne pense pas que tous les commerçants soient d'accord. | Although the idea is good, I don't think all shopkeepers will agree.
+Marinette: Même si certains perdent des clients au début, d'autres en gagneront. | Even if some lose customers at first, others will gain some.
+Adrien: Je crains aussi que les riverains aient du mal à se garer. | I'm also afraid residents will have trouble parking.
+Marinette: On pourrait proposer un parking à l'entrée du quartier. Qu'en penses-tu ? | We could suggest a car park at the entrance of the neighbourhood. What do you think?
+Adrien: Pourquoi pas, à condition que la mairie finance le projet. | Why not, provided the town hall funds the project.
+
+[vocab]
+vocab: je suis pour / contre | I'm for / against | zhuh swee POOR / KOHN-truh
+example: Je suis pour ce projet. | I'm for this project.
+vocab: la fermeture | closure | lah fehr-muh-TEWR
+example: La fermeture de la rue est prévue. | The street closure is planned.
+vocab: le commerçant | shopkeeper | luh koh-mehr-SAHN
+example: Les commerçants ne sont pas d'accord. | The shopkeepers don't agree.
+vocab: sûr / sûre | safe | SEWR
+example: La rue sera plus sûre. | The street will be safer.
+vocab: se garer | to park | suh gah-RAY
+example: Il est difficile de se garer. | It's hard to park.
+vocab: bien que | although (+ subjunctive) | BYAN kuh
+example: Bien que l'idée soit bonne… | Although the idea is good…
+vocab: même si | even if (+ indicative) | MEHM see
+example: Même si certains perdent des clients… | Even if some lose customers…
+vocab: à condition que | provided that (+ subjunctive) | ah kohn-dee-SYOHN kuh
+example: À condition que la mairie paie. | Provided that the town hall pays.
+vocab: craindre que | to fear that (+ subjunctive) | KRAN-druh kuh
+example: Je crains que ce soit trop cher. | I fear it will be too expensive.
+
+[grammar]
+grammar: Opinion and the subjunctive | Je pense que / je crois que plus indicative when you affirm: je pense que ce serait plus sûr. In the negative or the question, use the subjunctive: je ne pense pas que tous les commerçants soient d'accord, penses-tu que ce soit possible ? Fear, doubt and wish also take the subjunctive: je crains que, je doute que, je souhaite que, il est possible que.
+example: Je pense que c'est une bonne idée. | I think it's a good idea.
+example: Je ne pense pas que ce soit possible. | I don't think it's possible.
+grammar: Concession and condition | Bien que plus subjunctive: bien que l'idée soit bonne. Même si plus indicative: même si certains perdent des clients, d'autres en gagneront. À condition que plus subjunctive: à condition que la mairie finance. Compare malgré plus noun: malgré les difficultés. Pour or contre: je suis pour / je suis contre.
+example: Bien que l'idée soit bonne, j'hésite. | Although the idea is good, I hesitate.
+example: Même si c'est cher, je suis pour. | Even if it's expensive, I'm for it.
+
+[quiz]
+quiz: Which mood follows “bien que”? | indicative | conditional | subjunctive | imperative | C | Bien que + subjunctive.
+quiz: What does “à condition que” mean? | because | in spite of | although | provided that | D | À condition que = provided that.
+quiz: Which sentence is correct? | Même si c'est cher, je suis pour. | Même si c'était cher, je suis pour. | Même si ce soit cher, je suis pour. | Même que c'est cher, je suis pour. | A | Même si + indicative.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

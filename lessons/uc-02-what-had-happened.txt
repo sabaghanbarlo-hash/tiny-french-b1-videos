@@ -1,0 +1,47 @@
+title: What Had Already Happened
+episode: UC2
+scene: station
+
+[story]
+Adrien: Tu es en retard ! La réunion avait déjà commencé. | You're late! The meeting had already started.
+Marinette: Je sais, désolée. Quand je suis arrivée à la gare, le train était déjà parti. | I know, sorry. When I got to the station, the train had already left.
+Adrien: Tu n'avais pas vérifié l'horaire ? | Hadn't you checked the timetable?
+Marinette: Si, mais j'avais mal lu. Je pensais qu'il partait à neuf heures. | I had, but I'd read it wrong. I thought it left at nine.
+Adrien: Et tu avais prévenu le chef ? | And had you told the boss?
+Marinette: Oui, je lui avais envoyé un message avant de monter dans le bus suivant. | Yes, I'd sent him a message before getting on the next bus.
+
+[vocab]
+vocab: le plus-que-parfait | pluperfect (past before a past) | luh plew-kuh-par-FEH
+example: J'avais déjà mangé. | I had already eaten.
+vocab: déjà | already | day-ZHAH
+example: Il était déjà parti. | He had already left.
+vocab: rater | to miss (a train, a chance) | rah-TAY
+example: J'ai raté mon train. | I missed my train.
+vocab: vérifier | to check | vay-ree-FYAY
+example: Tu avais vérifié l'horaire ? | Had you checked the timetable?
+vocab: l'horaire | timetable, schedule | loh-REHR
+example: J'avais mal lu l'horaire. | I had misread the timetable.
+vocab: prévenir | to warn, to inform | pray-vuh-NEER
+example: J'avais prévenu mon chef. | I had told my boss.
+vocab: mal lire | to misread | mahl LEER
+example: J'avais mal lu. | I had misread it.
+vocab: suivant / suivante | next, following | swee-VAHN
+example: J'ai pris le bus suivant. | I took the next bus.
+vocab: se rendre compte que | to realise that | suh RAHN-druh KOHNT kuh
+example: Je me suis rendu compte qu'il était tard. | I realised it was late.
+
+[grammar]
+grammar: Forming the plus-que-parfait | Take the imparfait of avoir or être and add the past participle: j'avais mangé, tu avais fini, il était parti, nous étions arrivés, elles étaient sorties. Use être for the same verbs as in the passé composé and for reflexive verbs: je m'étais levé. The participle agrees as usual: elle était partie.
+example: Le train était déjà parti. | The train had already left.
+example: J'avais mal lu l'horaire. | I had misread the timetable.
+grammar: What it is used for | The plus-que-parfait places an action before another past action, which is in the passé composé or the imparfait: quand je suis arrivée, le train était parti. It often explains a cause: j'étais en retard parce que j'avais raté le bus. English uses 'had' in the same cases.
+example: Quand je suis arrivée, il était parti. | When I arrived, he had left.
+example: J'étais en retard parce que j'avais raté le bus. | I was late because I had missed the bus.
+
+[quiz]
+quiz: Which is the plus-que-parfait of “il part”? | il était parti | il est parti | il partait | il serait parti | A | Être (imparfait) + participle.
+quiz: Which sentence says the train left first? | Quand je suis arrivée, le train partait. | Quand je suis arrivée, le train était parti. | Quand j'étais arrivée, le train est parti. | Quand je suis arrivée, le train partira. | B | The earlier action uses the plus-que-parfait.
+quiz: What does “rater un train” mean? | to catch a train | to take a train | to miss a train | to delay a train | C | Rater = miss.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

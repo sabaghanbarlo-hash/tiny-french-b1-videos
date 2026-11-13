@@ -1,0 +1,47 @@
+title: Calling Tech Support
+episode: UC28
+scene: home
+
+[story]
+Adrien: Assistance technique, bonjour. Quel est votre problème ? | Tech support, hello. What's the problem?
+Marinette: Mon ordinateur ne s'allume plus et je n'arrive plus à me connecter. Rien ne marche. | My computer won't turn on any more and I can't connect any more. Nothing works.
+Adrien: Il faut que vous le redémarriez. Maintenez le bouton enfoncé pendant dix secondes. | You need to restart it. Hold the button down for ten seconds.
+Marinette: J'ai déjà essayé. Il ne se passe rien. | I've already tried. Nothing happens.
+Adrien: Débranchez-le, retirez la batterie et rebranchez-le. Vous ne l'avez jamais fait réparer ? | Unplug it, remove the battery and plug it back in. Have you never had it repaired?
+Marinette: Non, jamais. Personne ne m'a prévenue que la batterie était vieille. | No, never. Nobody told me the battery was old.
+
+[vocab]
+vocab: s'allumer | to turn on | sah-lew-MAY
+example: L'ordinateur ne s'allume plus. | The computer won't turn on.
+vocab: redémarrer | to restart | ruh-day-mah-RAY
+example: Il faut redémarrer l'ordinateur. | You have to restart the computer.
+vocab: maintenir enfoncé | to hold down | man-tuh-NEER ahn-foh-SAY
+example: Maintenez le bouton enfoncé. | Hold the button down.
+vocab: débrancher / rebrancher | to unplug / plug back in | day-brahn-SHAY / ruh-brahn-SHAY
+example: Débranchez-le puis rebranchez-le. | Unplug it then plug it back in.
+vocab: la batterie | battery | lah bah-tuh-REE
+example: La batterie est vieille. | The battery is old.
+vocab: faire réparer | to have repaired | fehr ray-pah-RAY
+example: Je dois faire réparer mon ordinateur. | I have to have my computer repaired.
+vocab: ne… plus | no longer | nuh… PLEWSS
+example: Ça ne marche plus. | It doesn't work any more.
+vocab: ne… rien / ne… personne | nothing / nobody | nuh… RYAN / PEHR-sohn
+example: Rien ne marche. Personne ne répond. | Nothing works. Nobody answers.
+vocab: arriver à | to manage to | ah-ree-VAY ah
+example: Je n'arrive plus à me connecter. | I can't connect any more.
+
+[grammar]
+grammar: Negative expressions | Ne plus, ne jamais, ne rien, ne personne. They surround the verb: l'ordinateur ne s'allume plus. In the passé composé, ne rien / plus / jamais go around the auxiliary, but ne personne goes around the participle: je n'ai vu personne. Rien and personne can be subjects: rien ne marche, personne ne répond.
+example: Rien ne marche. | Nothing works.
+example: Je n'ai vu personne. | I didn't see anyone.
+grammar: Instructions with pronouns | Support often gives imperatives with pronouns after the verb: débranchez-le, rebranchez-le, éteignez-le, redémarrez-le. In the negative the pronoun goes before: ne le débranchez pas. Or use il faut que vous plus subjunctive: il faut que vous le redémarriez. Faire plus infinitive: faire réparer, faire installer.
+example: Débranchez-le, puis rebranchez-le. | Unplug it, then plug it back in.
+example: Ne l'éteignez pas. | Don't turn it off.
+
+[quiz]
+quiz: Which sentence is correct? | Rien marche pas. | Ne rien marche. | Rien ne marche. | Rien ne marche pas. | C | Rien ne + verb.
+quiz: Where does “personne” go in the passé composé? | before the auxiliary | after the auxiliary | before the subject | after the participle | D | Je n'ai vu personne.
+quiz: What does “faire réparer” mean? | to have (something) repaired | to repair it yourself | to stop repairing | to repair twice | A | Faire + infinitive = have done.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

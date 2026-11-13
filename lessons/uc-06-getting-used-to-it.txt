@@ -1,0 +1,47 @@
+title: Getting Used to It
+episode: UC6
+scene: town
+
+[story]
+Adrien: Alors, tu t'habitues à la vie à Lyon ? | So, are you getting used to life in Lyon?
+Marinette: Peu à peu. Au début, j'avais du mal à me lever tôt, mais maintenant j'ai l'habitude. | Little by little. At first, I had trouble getting up early, but now I'm used to it.
+Adrien: Et le bruit des trams ? | And the noise of the trams?
+Marinette: Je ne l'entends plus ! J'ai arrêté de faire attention. | I don't hear it any more! I've stopped paying attention.
+Adrien: Tu as commencé à cuisiner lyonnais ? | Have you started cooking Lyon-style?
+Marinette: Oui, je me suis mise à faire des quenelles. J'essaie d'apprendre une recette par semaine. | Yes, I've started making quenelles. I'm trying to learn one recipe a week.
+
+[vocab]
+vocab: s'habituer à | to get used to | sah-bee-too-AY ah
+example: Je m'habitue à la vie à Lyon. | I'm getting used to life in Lyon.
+vocab: avoir l'habitude de | to be used to | ah-VWAHR lah-bee-TEWD duh
+example: J'ai l'habitude de me lever tôt. | I'm used to getting up early.
+vocab: se mettre à | to start (doing) | suh MEH-truh ah
+example: Je me suis mise à cuisiner. | I started cooking.
+vocab: commencer à | to begin to | koh-mahn-SAY ah
+example: J'ai commencé à comprendre. | I've begun to understand.
+vocab: continuer à | to keep on, continue to | kohn-tee-new-AY ah
+example: Je continue à apprendre. | I'm still learning.
+vocab: arrêter de | to stop (doing) | ah-reh-TAY duh
+example: J'ai arrêté de fumer. | I stopped smoking.
+vocab: essayer de | to try to | eh-say-YAY duh
+example: J'essaie de parler français. | I try to speak French.
+vocab: peu à peu | little by little | puh ah PUH
+example: Peu à peu, je m'habitue. | Little by little, I'm getting used to it.
+vocab: au début | at first, at the beginning | oh day-BEW
+example: Au début, c'était difficile. | At first, it was difficult.
+
+[grammar]
+grammar: Verbs followed by à or de | Some verbs take à before an infinitive: commencer à, continuer à, se mettre à, s'habituer à. Others take de: arrêter de, essayer de, avoir l'habitude de, finir de, décider de. There is no rule: learn them together. With a noun after s'habituer: je m'habitue à la vie à Lyon, je m'habitue au bruit.
+example: J'ai commencé à comprendre. | I've begun to understand.
+example: J'ai arrêté de fumer. | I stopped smoking.
+grammar: S'habituer and avoir l'habitude | S'habituer à describes the process of adapting: je m'habitue peu à peu. Avoir l'habitude de describes the result: j'ai l'habitude de me lever tôt. Use au début for the starting point: au début, j'avais du mal. Compare with ne plus: je ne l'entends plus.
+example: Je m'habitue peu à peu. | I'm getting used to it little by little.
+example: J'ai l'habitude de me lever tôt. | I'm used to getting up early.
+
+[quiz]
+quiz: Which preposition follows “arrêter”? | de | à | pour | en | A | Arrêter de + infinitive.
+quiz: Which preposition follows “commencer” before an infinitive? | de | à | pour | sur | B | Commencer à + infinitive.
+quiz: What does “peu à peu” mean? | not at all | at a pace | little by little | a little more | C | Peu à peu = gradually.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Talking About Books and Films
+episode: UC17
+scene: cafe
+
+[story]
+Adrien: Alors, le film dont tout le monde parle, il t'a plu ? | So, the film everyone is talking about, did you like it?
+Marinette: Beaucoup ! C'est l'histoire d'un boulanger qui décide de changer de vie. | A lot! It's the story of a baker who decides to change his life.
+Adrien: C'est le réalisateur dont tu m'avais parlé ? | Is it the director you told me about?
+Marinette: Oui. Il a aussi adapté un roman que j'ai lu l'an dernier. | Yes. He also adapted a novel that I read last year.
+Adrien: Et le personnage principal, il est comment ? | And the main character, what is he like?
+Marinette: Attachant. La scène où il ouvre sa boutique après la tempête m'a vraiment émue. | Endearing. The scene where he opens his shop after the storm really moved me.
+
+[vocab]
+vocab: le réalisateur | director (film) | luh ray-ah-lee-zah-TUHR
+example: Le réalisateur est très connu. | The director is very well known.
+vocab: le scénario | script, screenplay | luh say-nah-ryoh
+example: Le scénario est bien écrit. | The script is well written.
+vocab: l'intrigue | plot | lan-TREEG
+example: L'intrigue est captivante. | The plot is gripping.
+vocab: le personnage principal | main character | luh pehr-soh-NAHZH pran-see-PAHL
+example: Le personnage principal est attachant. | The main character is endearing.
+vocab: attachant / attachante | endearing | ah-tah-SHAHN
+example: C'est un personnage attachant. | He's an endearing character.
+vocab: captivant / captivante | gripping | kahp-tee-VAHN
+example: Le film est captivant. | The film is gripping.
+vocab: ennuyeux / ennuyeuse | boring | ahn-nwee-YUH
+example: Le début est un peu ennuyeux. | The beginning is a bit boring.
+vocab: émouvoir | to move (emotionally) | ay-moo-VWAHR
+example: Cette scène m'a émue. | That scene moved me.
+vocab: adapter | to adapt | ah-dahp-TAY
+example: Il a adapté un roman. | He adapted a novel.
+
+[grammar]
+grammar: Qui, que, dont and où | Qui replaces the subject, que replaces the direct object, dont replaces de plus noun, and où replaces a place or time. After dont, the subject comes next, with no que.
+example: C'est un film que j'ai adoré. | It's a film that I loved.
+example: Le film dont tout le monde parle. | The film everyone is talking about.
+grammar: Describing a work | To describe a film or book, give the genre, the plot, the characters, and your reaction. Use adjectives that agree: une intrigue captivante, un personnage attachant, des scènes émouvantes.
+example: C'est l'histoire d'un boulanger. | It's the story of a baker.
+example: J'ai trouvé l'intrigue captivante. | I found the plot gripping.
+
+[quiz]
+quiz: Which pronoun fits? “le film ___ tout le monde parle” | que | dont | qui | où | B | Parler de → dont.
+quiz: Which pronoun fits? “la scène ___ il ouvre sa boutique” | que | dont | où | qui | C | Place or situation → où.
+quiz: What does “captivant” mean? | boring | confusing | short | gripping | D | Captivant = gripping.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

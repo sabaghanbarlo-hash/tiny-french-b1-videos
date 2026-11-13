@@ -1,0 +1,47 @@
+title: Looking Back on B1
+episode: UC40
+scene: eiffel
+
+[story]
+Adrien: Quand je pense à l'année dernière, j'avais du mal à raconter une histoire en français. | When I think of last year, I had trouble telling a story in French.
+Marinette: Maintenant, tu peux parler du passé, donner ton avis et même débattre ! | Now you can talk about the past, give your opinion and even debate!
+Adrien: Ce dont je suis le plus fier, c'est d'avoir écrit un e-mail professionnel sans aide. | What I'm proudest of is having written a professional e-mail without help.
+Marinette: Moi, ce que j'ai appris de plus utile, c'est le subjonctif. Il faut qu'on le pratique encore. | What I've learned that's most useful is the subjunctive. We need to keep practising it.
+Adrien: Si nous continuons, nous aurons atteint le niveau B2 d'ici deux ans. | If we keep going, we'll have reached B2 level within two years.
+Marinette: Félicitations à nous deux ! À bientôt pour la suite. | Congratulations to both of us! See you soon for the next step.
+
+[vocab]
+vocab: le bilan | review, balance sheet | luh bee-LAHN
+example: On fait le bilan de l'année. | We're taking stock of the year.
+vocab: raconter une histoire | to tell a story | rah-kohn-TAY ewn ees-TWAHR
+example: Je sais raconter une histoire. | I can tell a story.
+vocab: débattre | to debate | day-BAH-truh
+example: Nous aimons débattre. | We like to debate.
+vocab: ce dont je suis fier | what I'm proud of | suh dohn zhuh swee FYEHR
+example: Ce dont je suis fier, c'est mon e-mail. | What I'm proud of is my e-mail.
+vocab: ce que j'ai appris | what I've learned | suh kuh zhay ah-PREE
+example: Ce que j'ai appris est utile. | What I've learned is useful.
+vocab: pratiquer | to practise | prah-tee-KAY
+example: Il faut pratiquer tous les jours. | You have to practise every day.
+vocab: atteindre | to reach, to achieve | ah-TAN-druh
+example: Nous atteindrons le niveau B2. | We'll reach level B2.
+vocab: le niveau | level | luh nee-VOH
+example: Quel est ton niveau ? | What's your level?
+vocab: la suite | the next part, continuation | lah SWEET
+example: À bientôt pour la suite ! | See you soon for the next part!
+
+[grammar]
+grammar: Choosing the right tense | Passé composé for events, imparfait for background and habits, plus-que-parfait for what happened before, présent for now, futur simple for plans, futur antérieur for what will be completed, conditionnel for polite wishes and hypotheses, subjonctif after il faut que, je veux que, bien que, pour que.
+example: J'avais du mal à raconter une histoire. | I had trouble telling a story.
+example: Nous aurons atteint le niveau B2. | We'll have reached level B2.
+grammar: Looking back and thanking | Take stock with ce que j'ai appris, ce dont je suis fier, ce qui m'a plu, ce que je dois encore améliorer. Thank with merci pour ton aide, grâce à toi, je te dois beaucoup. Say goodbye with à bientôt, bonne continuation, bon courage pour la suite, félicitations. You have now finished B1 and can aim for B2.
+example: Ce dont je suis fier, c'est mon e-mail. | What I'm proud of is my e-mail.
+example: Bonne continuation ! | All the best!
+
+[quiz]
+quiz: Which tense do you use for a habit in the past? | passé composé | futur antérieur | imparfait | conditionnel passé | C | Habits = imparfait.
+quiz: Which sentence is correct? | Nous avons atteint le niveau B2 d'ici deux ans. | Nous atteindrions le niveau B2 d'ici deux ans. | Nous atteignons le niveau B2 dans deux ans hier. | Nous aurons atteint le niveau B2. | D | Futur antérieur.
+quiz: What does “faire le bilan” mean? | to take stock | to make a mistake | to prepare a bill | to count money | A | Bilan = review.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

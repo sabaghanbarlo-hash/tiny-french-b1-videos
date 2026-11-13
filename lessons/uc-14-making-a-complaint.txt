@@ -1,0 +1,47 @@
+title: Making a Complaint
+episode: UC14
+scene: store
+
+[story]
+Adrien: Service client, bonjour. En quoi puis-je vous aider ? | Customer service, hello. How can I help you?
+Marinette: Bonjour. J'ai passé une commande il y a trois semaines, et elle n'a toujours pas été livrée. | Hello. I placed an order three weeks ago, and it still hasn't been delivered.
+Adrien: Je suis désolé. Avez-vous reçu un e-mail de confirmation ? | I'm sorry. Did you receive a confirmation e-mail?
+Marinette: Oui, et le colis a été expédié le 3, mais le suivi n'a pas été mis à jour. | Yes, and the parcel was shipped on the 3rd, but the tracking hasn't been updated.
+Adrien: Je comprends votre mécontentement. Que souhaitez-vous ? | I understand your dissatisfaction. What would you like?
+Marinette: Je souhaiterais être remboursée, ou que vous me renvoyiez le colis rapidement. | I'd like to be refunded, or for you to send the parcel again quickly.
+
+[vocab]
+vocab: le service client | customer service | luh sehr-VEESS klee-AHN
+example: J'appelle le service client. | I'm calling customer service.
+vocab: la commande | order | lah koh-MAHND
+example: Ma commande n'est pas arrivée. | My order hasn't arrived.
+vocab: livrer | to deliver | lee-VRAY
+example: La commande n'a pas été livrée. | The order hasn't been delivered.
+vocab: expédier | to ship, to send | ehk-spay-DYAY
+example: Le colis a été expédié. | The parcel has been shipped.
+vocab: le colis | parcel | luh koh-LEE
+example: Je n'ai pas reçu le colis. | I haven't received the parcel.
+vocab: le suivi | tracking, follow-up | luh swee-VEE
+example: Le suivi n'est pas à jour. | The tracking isn't up to date.
+vocab: le mécontentement | dissatisfaction | luh may-kohn-tahnt-MAHN
+example: Je comprends votre mécontentement. | I understand your dissatisfaction.
+vocab: rembourser | to refund | rahn-boor-SAY
+example: Je voudrais être remboursée. | I'd like to be refunded.
+vocab: renvoyer | to send again, to send back | rahn-vwah-YAY
+example: Vous pouvez me renvoyer le colis ? | Can you send me the parcel again?
+
+[grammar]
+grammar: The passive voice | Form the passive with être plus past participle, which agrees with the subject: la commande a été livrée, les colis ont été expédiés. The agent is introduced by par: le colis a été expédié par notre entrepôt. Use the passive when the action matters more than who did it: la commande n'a pas été livrée. In speech, on plus active is often more natural: on n'a pas livré ma commande.
+example: La commande n'a pas été livrée. | The order hasn't been delivered.
+example: Le colis a été expédié le 3. | The parcel was shipped on the 3rd.
+grammar: Polite complaints | Describe the facts first, then the problem, then ask for a solution with je souhaiterais, je voudrais, pourriez-vous. Note the structures: je souhaiterais être remboursé / je souhaiterais que vous me renvoyiez. Close with merci de votre compréhension.
+example: Je souhaiterais être remboursée. | I'd like to be refunded.
+example: Pourriez-vous me renvoyer le colis ? | Could you send me the parcel again?
+
+[quiz]
+quiz: How do you say “The parcel was shipped”? | Le colis a été expédié. | Le colis est expédié par. | Le colis a expédié. | Le colis a été expédier. | A | Passive: être + participle.
+quiz: What does “le suivi” mean in online shopping? | the follow-up call | tracking | the invoice | the delivery fee | B | Suivi = tracking.
+quiz: Which request is polite? | Remboursez-moi ! | Je veux mon argent. | Je souhaiterais être remboursée. | Vous me remboursez maintenant. | C | Je souhaiterais = polite wish.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

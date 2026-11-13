@@ -1,0 +1,47 @@
+title: Sharing a Flat
+episode: UC11
+scene: home
+
+[story]
+Marinette: Pour bien vivre ensemble, il faut que nous fassions quelques règles. | To live together well, we need to set some rules.
+Adrien: D'accord. Il faut que chacun fasse sa vaisselle et que quelqu'un sorte les poubelles. | OK. Everyone has to do their own dishes and someone has to take out the bins.
+Marinette: Chacun son tour, par semaine. Il est important que personne ne fasse trop de bruit après vingt-deux heures. | Everyone in turn, each week. It's important that nobody makes too much noise after ten p.m.
+Adrien: Et pour les invités, il faut qu'on se prévienne avant. | And for guests, we need to warn each other first.
+Marinette: Parfait. Je veux aussi que nous partagions les courses de base. | Perfect. I also want us to share the basic shopping.
+Adrien: Très bien. Il vaut mieux que tout soit clair dès le début. | Very good. It's better that everything is clear from the start.
+
+[vocab]
+vocab: la colocation | flat-sharing | lah koh-loh-kah-SYOHN
+example: Je suis en colocation. | I'm sharing a flat.
+vocab: le colocataire | flatmate | luh koh-loh-kah-TEHR
+example: Mon colocataire est sympa. | My flatmate is nice.
+vocab: la règle | rule | lah REH-gluh
+example: On fait des règles. | We're setting rules.
+vocab: la poubelle | bin, trash can | lah poo-BEHL
+example: Je sors la poubelle. | I take out the bin.
+vocab: l'invité / l'invitée | guest | lan-vee-TAY
+example: On prévient avant d'avoir des invités. | We warn before having guests.
+vocab: chacun son tour | each in turn | shah-KUHN sohn TOOR
+example: On fait le ménage chacun son tour. | We clean each in turn.
+vocab: partager | to share | par-tah-ZHAY
+example: Nous partageons les courses. | We share the shopping.
+vocab: il est important que | it is important that | eel eh tan-pohr-TAHN kuh
+example: Il est important que tout soit clair. | It is important that everything is clear.
+vocab: dès le début | from the start | deh luh day-BEW
+example: Dès le début, soyons clairs. | From the start, let's be clear.
+
+[grammar]
+grammar: The subjunctive: formation | Use the ils form of the present, remove -ent, and add -e, -es, -e, -ions, -iez, -ent: que je parle, que tu finisses, qu'il sorte, que nous partagions, qu'ils fassent. Irregular: être becomes que je sois, avoir becomes que j'aie, aller becomes que j'aille, faire becomes que je fasse, pouvoir becomes que je puisse, savoir becomes que je sache, vouloir becomes que je veuille. The subjunctive follows que when the two verbs have different subjects.
+example: Il faut que tu fasses la vaisselle. | You have to do the dishes.
+example: Il est important qu'on se prévienne. | It's important that we warn each other.
+grammar: When to use the subjunctive | Use the subjunctive after expressions of necessity or opinion: il faut que, il est important que, il vaut mieux que, il est nécessaire que, je veux que, je voudrais que, j'aimerais que. If the subject is the same for both verbs, use the infinitive instead: il faut faire la vaisselle, je veux partir.
+example: Je veux que nous partagions les courses. | I want us to share the shopping.
+example: Il faut faire des règles. | You have to make rules.
+
+[quiz]
+quiz: Which sentence is correct? | Il faut que tu fais la vaisselle. | Il faut que tu fera la vaisselle. | Il faut que tu faire la vaisselle. | Il faut que tu fasses la vaisselle. | D | Subjunctive of faire: fasses.
+quiz: When do you use the infinitive instead of the subjunctive? | when the subject is the same | when the subjects differ | after pas | after si | A | Same subject = infinitive.
+quiz: What does “chacun son tour” mean? | each on his own | each in turn | each at his place | everyone together | B | Chacun son tour = in turn.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Leading a Meeting
+episode: UC30
+scene: classroom
+
+[story]
+Marinette: Bonjour à tous. Voici l'ordre du jour : le planning, le budget, puis les questions diverses. | Hello everyone. Here's the agenda: the schedule, the budget, then any other business.
+Adrien: Je peux prendre la parole sur le planning ? | Can I speak about the schedule?
+Marinette: Bien sûr, nous t'écoutons. | Of course, we're listening.
+Adrien: On pourrait avancer la livraison d'une semaine. Je propose que nous commencions plus tôt. | We could bring the delivery forward by a week. I suggest we start earlier.
+Marinette: Qui est d'accord ? Passons au point suivant : le budget. | Who agrees? Let's move to the next point: the budget.
+Marinette: Pour conclure, je résume : on avance la livraison et on se revoit lundi. | To conclude, I'll summarise: we bring the delivery forward and meet again on Monday.
+
+[vocab]
+vocab: l'ordre du jour | agenda | LOHR-druh dew ZHOOR
+example: Voici l'ordre du jour. | Here's the agenda.
+vocab: prendre la parole | to speak (take the floor) | PRAHN-druh lah pah-ROHL
+example: Je peux prendre la parole ? | Can I take the floor?
+vocab: passer au point suivant | to move to the next point | pah-SAY oh PWAN swee-VAHN
+example: Passons au point suivant. | Let's move to the next point.
+vocab: le planning | schedule, plan | luh plah-NEENG
+example: Le planning est serré. | The schedule is tight.
+vocab: avancer la date | to bring the date forward | ah-vahn-SAY lah DAHT
+example: On avance la livraison. | We're bringing the delivery forward.
+vocab: la livraison | delivery | lah lee-vreh-ZOHN
+example: La livraison est lundi. | Delivery is on Monday.
+vocab: résumer | to summarise | ray-zew-MAY
+example: Je résume la réunion. | I summarise the meeting.
+vocab: je propose que | I suggest that | zhuh proh-POHZ kuh
+example: Je propose que nous commencions. | I suggest we start.
+vocab: les questions diverses | any other business | lay kehs-TYOHN dee-VEHRS
+example: Passons aux questions diverses. | Let's go to any other business.
+
+[grammar]
+grammar: Proposing in a meeting | Use the conditional for suggestions: on pourrait avancer la livraison, nous devrions reporter la décision. Use je propose que plus subjunctive or je propose de plus infinitive. Ask for opinions: qu'en pensez-vous ? Qui est d'accord ?
+example: On pourrait avancer la livraison. | We could bring the delivery forward.
+example: Je propose que nous commencions plus tôt. | I suggest that we start earlier.
+grammar: Running the meeting | Open: je vous propose de commencer. Share the agenda: voici l'ordre du jour. Give the floor: je te laisse la parole, nous t'écoutons. Move on: passons au point suivant. Conclude: pour conclure, je résume and set the next meeting: on se revoit lundi. Politely interrupt: je me permets de vous interrompre.
+example: Passons au point suivant. | Let's move to the next point.
+example: Pour conclure, je résume. | To conclude, I'll summarise.
+
+[quiz]
+quiz: Which phrase makes a polite suggestion? | On pourrait avancer la livraison. | Avancez la livraison ! | On avance la livraison hier. | On a avancé la livraison. | A | Conditional for suggestions.
+quiz: What does “l'ordre du jour” mean? | the order of the day's meal | the agenda | the daily order | the day's rules | B | Ordre du jour = agenda.
+quiz: What does “prendre la parole” mean? | to take a word | to promise | to speak (take the floor) | to listen | C | Prendre la parole = speak.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

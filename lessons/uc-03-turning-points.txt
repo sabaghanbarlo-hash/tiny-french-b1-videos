@@ -1,0 +1,47 @@
+title: Turning Points
+episode: UC3
+scene: terrace
+
+[story]
+Adrien: Pourquoi as-tu décidé de quitter Paris ? | Why did you decide to leave Paris?
+Marinette: C'est en 2025 que tout a changé. J'ai perdu mon travail et j'ai beaucoup hésité. | It was in 2025 that everything changed. I lost my job and I hesitated a lot.
+Adrien: Qu'est-ce qui t'a aidée à te décider ? | What helped you make up your mind?
+Marinette: C'est ma sœur qui m'a poussée à partir. Grâce à elle, j'ai osé changer de vie. | It was my sister who pushed me to leave. Thanks to her, I dared to change my life.
+Adrien: Tu n'as jamais regretté ? | Have you never regretted it?
+Marinette: Pas une seconde. C'est à Lyon que j'ai trouvé ma place. | Not for a second. It's in Lyon that I found my place.
+
+[vocab]
+vocab: le tournant | turning point | luh toor-NAHN
+example: C'était un tournant dans ma vie. | It was a turning point in my life.
+vocab: hésiter | to hesitate | ay-zee-TAY
+example: J'ai beaucoup hésité. | I hesitated a lot.
+vocab: se décider à | to make up one's mind to | suh day-see-DAY ah
+example: Je me suis décidé à partir. | I made up my mind to leave.
+vocab: pousser quelqu'un à | to push someone to | poo-SAY kehl-KUHN ah
+example: Elle m'a poussée à partir. | She pushed me to leave.
+vocab: oser | to dare | oh-ZAY
+example: J'ai osé changer de vie. | I dared to change my life.
+vocab: regretter | to regret | ruh-greh-TAY
+example: Je ne regrette rien. | I regret nothing.
+vocab: trouver sa place | to find one's place | troo-VAY sah PLAHSS
+example: J'ai trouvé ma place à Lyon. | I found my place in Lyon.
+vocab: changer de vie | to change one's life | shahn-ZHAY duh VEE
+example: J'ai voulu changer de vie. | I wanted to change my life.
+vocab: pas une seconde | not for a second | pah zewn suh-GOHND
+example: Je n'ai pas regretté une seconde. | I haven't regretted it for a second.
+
+[grammar]
+grammar: C'est… que / c'est… qui | To stress one element of the sentence, put it between c'est and que or qui. C'est en 2025 que tout a changé. C'est à Lyon que j'ai trouvé ma place. C'est ma sœur qui m'a poussée. It answers a question like Quand ? Où ? Qui ?
+example: C'est en 2025 que tout a changé. | It was in 2025 that everything changed.
+example: C'est ma sœur qui m'a poussée. | It was my sister who pushed me.
+grammar: Decisions and reasons | Verbs followed by à or de plus infinitive: décider de, hésiter à, se décider à, oser, pousser quelqu'un à. Reasons: grâce à plus noun for a positive cause, à cause de plus noun for a negative cause. Regret: je regrette de plus infinitive, je n'ai rien à regretter.
+example: Grâce à elle, j'ai osé partir. | Thanks to her, I dared to leave.
+example: J'ai hésité à partir. | I hesitated to leave.
+
+[quiz]
+quiz: Which sentence stresses the place? | C'est à Lyon qui j'ai trouvé ma place. | C'est Lyon que à j'ai trouvé ma place. | C'est à Lyon j'ai trouvé ma place. | C'est à Lyon que j'ai trouvé ma place. | D | Place or time + que.
+quiz: What does “grâce à elle” express? | a positive reason | a negative reason | a time | a place | A | Grâce à = thanks to.
+quiz: What does “hésiter à partir” mean? | to refuse to leave | to hesitate to leave | to be forced to leave | to want to leave | B | Hésiter à + infinitive.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

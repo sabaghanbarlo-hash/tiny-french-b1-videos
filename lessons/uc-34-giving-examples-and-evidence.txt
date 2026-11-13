@@ -1,0 +1,47 @@
+title: Giving Examples and Evidence
+episode: UC34
+scene: park
+
+[story]
+Marinette: Pour convaincre, il faut des exemples. Par exemple, à Strasbourg, un quart des trajets se font à vélo. | To convince, you need examples. For example, in Strasbourg a quarter of journeys are made by bike.
+Adrien: Selon une étude récente, les cyclistes sont notamment en meilleure santé et arrivent moins stressés au travail. | According to a recent study, cyclists are in particular healthier and arrive less stressed at work.
+Marinette: Les chiffres montrent aussi qu'une voiture coûte beaucoup plus cher qu'un vélo. | The figures also show that a car costs much more than a bike.
+Adrien: C'est le cas de ma sœur : elle a vendu sa voiture et économise deux cents euros par mois. | That's the case with my sister: she sold her car and saves two hundred euros a month.
+Marinette: Il ressort donc que le vélo est à la fois sain et économique. | So it emerges that cycling is both healthy and economical.
+Adrien: Ce qui montre qu'il faut investir dans de meilleures pistes cyclables. | Which shows that we need to invest in better bike lanes.
+
+[vocab]
+vocab: par exemple | for example | pahr ehg-ZAHM-pluh
+example: Par exemple, à Strasbourg… | For example, in Strasbourg…
+vocab: notamment | in particular, notably | noh-tah-MAHN
+example: Ils sont notamment en meilleure santé. | They are in particular healthier.
+vocab: c'est le cas de | that's the case with | seh luh KAH duh
+example: C'est le cas de ma sœur. | That's the case with my sister.
+vocab: selon une étude | according to a study | suh-LOHN ewn ay-TEWD
+example: Selon une étude récente… | According to a recent study…
+vocab: les chiffres | figures, numbers | lay SHEE-fruh
+example: Les chiffres montrent que… | The figures show that…
+vocab: il ressort que | it emerges that | eel ruh-SOHR kuh
+example: Il ressort que le vélo est économique. | It emerges that cycling is economical.
+vocab: ce qui montre que | which shows that | suh kee MOHN-truh kuh
+example: Ce qui montre que c'est possible. | Which shows that it's possible.
+vocab: à la fois | both, at the same time | ah lah FWAH
+example: C'est à la fois sain et économique. | It's both healthy and economical.
+vocab: investir dans | to invest in | an-vehs-TEER dahn
+example: Il faut investir dans les transports. | We need to invest in transport.
+
+[grammar]
+grammar: Introducing examples and evidence | Give examples with par exemple, notamment, c'est le cas de, comme. Introduce evidence with selon une étude, d'après les chiffres, les chiffres montrent que, il ressort de cette étude que. Link a conclusion with ce qui montre que, ce qui prouve que, donc.
+example: Par exemple, à Strasbourg, on roule beaucoup à vélo. | For example, in Strasbourg people cycle a lot.
+example: Les chiffres montrent que c'est moins cher. | The figures show that it's cheaper.
+grammar: Using figures | State figures precisely: un quart des trajets, deux cents euros par mois, plus de la moitié, environ 30 %, trois fois plus que. Use à la fois to combine two qualities: sain et économique à la fois, or à la fois sain et économique. Always name the source: selon l'INSEE, selon une étude de 2024.
+example: Un quart des trajets se font à vélo. | A quarter of journeys are made by bike.
+example: C'est à la fois sain et économique. | It's both healthy and economical.
+
+[quiz]
+quiz: Which expression introduces an example? | par exemple | en conclusion | au contraire | malgré | A | Par exemple = for example.
+quiz: What does “ce qui montre que” introduce? | an example | a conclusion drawn from evidence | a contrast | a question | B | Ce qui montre que = which shows that.
+quiz: What does “à la fois” mean? | once more | from time to time | both, at the same time | at the end | C | À la fois = at once.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

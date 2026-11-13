@@ -1,0 +1,47 @@
+title: Passions and Interests
+episode: UC20
+scene: park
+
+[story]
+Marinette: Tu es passionné de photo depuis longtemps ? | Have you been passionate about photography for a long time?
+Adrien: Depuis que mon père m'a offert un appareil, à douze ans. Je m'y suis mis tout de suite. | Since my father gave me a camera when I was twelve. I got into it right away.
+Marinette: Tu t'intéresses surtout aux portraits ? | Are you mainly interested in portraits?
+Adrien: Oui, et aux paysages. Je participe à un club photo avec qui je voyage chaque été. | Yes, and landscapes. I'm part of a photo club with whom I travel every summer.
+Marinette: Moi, c'est la cuisine. C'est ma grand-mère à qui je dois ma passion. | For me it's cooking. It's my grandmother I owe my passion to.
+Adrien: Une passion, ça se transmet souvent à quelqu'un de proche. | A passion is often passed on to someone close.
+
+[vocab]
+vocab: passionné de | passionate about | pah-syoh-NAY duh
+example: Il est passionné de photo. | He's passionate about photography.
+vocab: se passionner pour | to be passionate about | suh pah-syoh-NAY poor
+example: Elle se passionne pour la cuisine. | She's passionate about cooking.
+vocab: s'intéresser à | to be interested in | san-tay-reh-SAY ah
+example: Je m'intéresse à la photo. | I'm interested in photography.
+vocab: s'y mettre | to get into it | see MEH-truh
+example: Je m'y suis mis tout de suite. | I got into it right away.
+vocab: le club | club | luh KLUHB
+example: Je participe à un club photo. | I take part in a photo club.
+vocab: participer à | to take part in | par-tee-see-PAY ah
+example: Je participe à un club. | I take part in a club.
+vocab: transmettre | to pass on | trahns-MEH-truh
+example: Une passion se transmet. | A passion is passed on.
+vocab: le paysage | landscape | luh pay-ee-ZAHZH
+example: J'aime les paysages. | I like landscapes.
+vocab: devoir quelque chose à quelqu'un | to owe something to someone | duh-VWAHR kehl-kuh SHOHZ ah kehl-KUHN
+example: Je dois ma passion à ma grand-mère. | I owe my passion to my grandmother.
+
+[grammar]
+grammar: Prepositions with qui | After a preposition, qui replaces a person in a relative clause: le club avec qui je voyage, la personne à qui je dois ma passion, l'ami pour qui j'ai écrit ça, le prof chez qui j'ai appris. For things, use lequel / laquelle / lesquels / lesquelles with the preposition: le club auquel je participe, l'appareil avec lequel je prends des photos.
+example: Le club avec qui je voyage. | The club with whom I travel.
+example: La personne à qui je dois ma passion. | The person I owe my passion to.
+grammar: Talking about interests | Verbs with prepositions: s'intéresser à, participer à, se passionner pour, être passionné de, rêver de, avoir envie de. Place the starting point with depuis que plus clause or depuis plus duration: depuis que mon père m'a offert un appareil, depuis douze ans. S'y mettre means to get into something: je m'y suis mis.
+example: Je m'intéresse à la photo. | I'm interested in photography.
+example: Je fais de la photo depuis douze ans. | I've been doing photography for twelve years.
+
+[quiz]
+quiz: Which is correct? | la personne que je dois ma passion | la personne dont je dois ma passion | la personne à qui je dois ma passion | la personne où je dois ma passion | C | Devoir à quelqu'un → à qui.
+quiz: What does “s'y mettre” mean? | to put it there | to sit down | to put oneself away | to get into it | D | S'y mettre = start doing.
+quiz: Which preposition follows “s'intéresser”? | à | de | pour | sur | A | S'intéresser à.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

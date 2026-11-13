@@ -1,0 +1,47 @@
+title: Making Big Plans
+episode: UC39
+scene: eiffel
+
+[story]
+Marinette: Dans dix ans, j'aurai ouvert mon agence et j'habiterai peut-être au bord de la mer. | In ten years, I'll have opened my agency and I'll perhaps live by the sea.
+Adrien: Moi, j'espère avoir voyagé dans une vingtaine de pays. D'ici là, j'aurai économisé assez pour acheter un petit appartement. | I hope to have travelled in about twenty countries. By then, I'll have saved enough to buy a small flat.
+Marinette: Si tout se passe bien, nous serons toujours amis et nous nous verrons chaque été. | If all goes well, we'll still be friends and we'll meet every summer.
+Adrien: Et si ça ne se passait pas comme prévu, nous aurions toujours le plan B. | And if it didn't go as planned, we'd still have plan B.
+Marinette: Lequel ? | Which one?
+Adrien: Ouvrir un café-librairie ensemble ! On pourrait même l'appeler « Petit à Petit ». | Open a café-bookshop together! We could even call it “Little by Little”.
+
+[vocab]
+vocab: dans dix ans | in ten years | dahn dee ZAHN
+example: Dans dix ans, je serai ici. | In ten years, I'll be here.
+vocab: d'ici là | by then | dee-see LAH
+example: D'ici là, j'aurai fini. | By then, I'll have finished.
+vocab: une vingtaine de | about twenty | ewn van-TEHN duh
+example: Une vingtaine de pays. | About twenty countries.
+vocab: si tout se passe bien | if all goes well | see too suh PAHSS BYAN
+example: Si tout se passe bien, je pars. | If all goes well, I'll leave.
+vocab: comme prévu | as planned | kohm pray-VEW
+example: Tout se passe comme prévu. | Everything goes as planned.
+vocab: le plan B | plan B | luh plahn BAY
+example: On a toujours un plan B. | We always have a plan B.
+vocab: le café-librairie | café-bookshop | luh kah-FAY lee-breh-REE
+example: On ouvrira un café-librairie. | We'll open a café-bookshop.
+vocab: au bord de la mer | by the sea | oh BOHR duh lah MEHR
+example: J'habiterai au bord de la mer. | I'll live by the sea.
+vocab: toujours | still, always | too-ZHOOR
+example: Nous serons toujours amis. | We'll still be friends.
+
+[grammar]
+grammar: Combining the future tenses | Futur simple for what will happen: j'habiterai au bord de la mer. Futur antérieur for what will already have happened by then: d'ici là, j'aurai économisé; dans dix ans, j'aurai ouvert mon agence. Conditionnel for alternatives: si ça ne se passait pas comme prévu, nous aurions un plan B. Use d'ici là to connect the present with that future time.
+example: Dans dix ans, j'aurai ouvert mon agence. | In ten years, I'll have opened my agency.
+example: D'ici là, j'aurai économisé assez d'argent. | By then, I'll have saved enough money.
+grammar: Talking about plans | Use dans plus duration to place a future event: dans dix ans, dans deux semaines. Use si tout se passe bien and avec un peu de chance for conditions. Use comme prévu / pas comme prévu for plans that work or not. Use toujours with the future to mean still: nous serons toujours amis. Ask Où te vois-tu dans dix ans ?
+example: Si tout se passe bien, nous partirons. | If all goes well, we'll leave.
+example: Où te vois-tu dans dix ans ? | Where do you see yourself in ten years?
+
+[quiz]
+quiz: Which tense says what will already have happened by then? | futur simple | conditionnel présent | imparfait | futur antérieur | D | Futur antérieur = future perfect.
+quiz: What does “comme prévu” mean? | as planned | as expected, no | as seen | as before | A | Comme prévu = as planned.
+quiz: Which sentence is correct? | Dans dix ans, j'ai ouvert mon agence. | Dans dix ans, j'aurai ouvert mon agence. | Dans dix ans, je serai ouvert mon agence. | Dans dix ans, j'avais ouvert mon agence. | B | Futur antérieur: aurai ouvert.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

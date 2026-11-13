@@ -1,0 +1,47 @@
+title: Getting Along
+episode: UC9
+scene: home
+
+[story]
+Marinette: Tu as l'air préoccupé. Qu'est-ce qui se passe ? | You look worried. What's going on?
+Adrien: Chloé et moi, nous nous sommes disputés hier. Nous ne nous parlons plus depuis ce matin. | Chloé and I had an argument yesterday. We haven't spoken to each other since this morning.
+Marinette: Pourtant, vous vous entendez bien d'habitude, non ? | But you normally get along well, don't you?
+Adrien: Oui, mais elle avait pris mes affaires sans me prévenir. Nous nous sommes énervés l'un contre l'autre. | Yes, but she had taken my things without telling me. We got angry at each other.
+Marinette: Vous devriez vous réconcilier avant ce soir. Vous vous écrivez parfois ? | You should make up before tonight. Do you ever write to each other?
+Adrien: Tu as raison. Je vais lui écrire. On finit toujours par se pardonner. | You're right. I'll write to her. We always end up forgiving each other.
+
+[vocab]
+vocab: s'entendre bien avec | to get along with | sahn-TAHN-druh byan ah-VEHK
+example: Je m'entends bien avec ma sœur. | I get along well with my sister.
+vocab: se disputer | to argue | suh dees-pew-TAY
+example: Nous nous sommes disputés. | We had an argument.
+vocab: se réconcilier | to make up | suh ray-kohn-see-LYAY
+example: Nous nous sommes réconciliés. | We made up.
+vocab: s'énerver | to get annoyed | say-nehr-VAY
+example: Elle s'est énervée. | She got annoyed.
+vocab: se pardonner | to forgive each other | suh par-doh-NAY
+example: Ils se sont pardonné. | They forgave each other.
+vocab: préoccupé / préoccupée | worried | pray-oh-kew-PAY
+example: Tu as l'air préoccupé. | You look worried.
+vocab: les affaires | belongings, things | lay zah-FEHR
+example: Elle a pris mes affaires. | She took my things.
+vocab: l'un contre l'autre | against each other | luhn KOHN-truh LOH-truh
+example: Ils se sont énervés l'un contre l'autre. | They got angry at each other.
+vocab: finir par | to end up (doing) | fee-NEER pahr
+example: On finit par se pardonner. | We end up forgiving each other.
+
+[grammar]
+grammar: Reciprocal verbs | A reciprocal verb describes an action two or more people do to each other: nous nous parlons, ils se disputent, vous vous voyez. They use the same reflexive pronouns: nous nous, vous vous, se. In the passé composé they take être: nous nous sommes disputés. The participle agrees with the pronoun when it is the direct object: elles se sont vues; no agreement when it is indirect: elles se sont parlé, ils se sont écrit.
+example: Nous nous sommes disputés. | We had an argument.
+example: Elles se sont parlé hier. | They spoke to each other yesterday.
+grammar: Finir par, l'un l'autre | Finir par plus infinitive means to end up doing something: on finit toujours par se pardonner. L'un l'autre / les uns les autres add emphasis to reciprocity: ils s'aident les uns les autres, elles se parlent l'une à l'autre. With a preposition, put it between: l'un contre l'autre, l'un avec l'autre.
+example: On finit par se pardonner. | We end up forgiving each other.
+example: Ils s'aident les uns les autres. | They help each other.
+
+[quiz]
+quiz: How do you say “We had an argument”? | Nous avons disputé. | Nous nous sommes disputés. | Nous sommes disputés. | Nous nous avons disputés. | B | Reciprocal verbs take être.
+quiz: What does “finir par” mean? | to finish doing | to stop doing | to end up doing | to try doing | C | Finir par = end up.
+quiz: What does “les affaires” mean in “mes affaires”? | my business | my affairs of the heart | my deals | my things | D | Affaires = belongings.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

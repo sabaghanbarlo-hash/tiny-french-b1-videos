@@ -1,0 +1,47 @@
+title: Structuring an Argument
+episode: UC33
+scene: classroom
+
+[story]
+Marinette: Mon sujet : faut-il apprendre une langue étrangère dès l'école primaire ? | My topic: should children learn a foreign language from primary school?
+Adrien: Commence par ta position. Tu es pour ou contre ? | Start with your position. Are you for or against?
+Marinette: Je suis pour. D'abord, les enfants apprennent plus facilement. Ensuite, c'est utile pour leur avenir. | I'm for. First, children learn more easily. Then it's useful for their future.
+Adrien: Ajoute un lien : non seulement ça ouvre l'esprit, mais ça aide aussi dans les autres matières. | Add a link: not only does it open the mind, but it also helps in other subjects.
+Marinette: D'une part, c'est un avantage personnel. D'autre part, c'est un avantage pour la société. | On the one hand, it's a personal advantage. On the other hand, it's an advantage for society.
+Adrien: Termine par : « C'est pourquoi je pense qu'il faut commencer le plus tôt possible. » | End with: “That's why I think we should start as early as possible.”
+
+[vocab]
+vocab: la position | position, stance | lah poh-zee-SYOHN
+example: Quelle est ta position ? | What's your position?
+vocab: d'abord… ensuite… enfin | first… then… finally | dah-BOHR… ahn-SWEET… ahn-FAN
+example: D'abord, c'est utile. Ensuite, c'est facile. | First it's useful. Then it's easy.
+vocab: d'une part… d'autre part | on the one hand… on the other | dewn PAHR… DOH-truh PAHR
+example: D'une part c'est utile, d'autre part c'est agréable. | On the one hand it's useful, on the other it's pleasant.
+vocab: non seulement… mais aussi | not only… but also | nohn suhl-MAHN… meh oh-SEE
+example: Non seulement c'est utile, mais c'est aussi amusant. | Not only is it useful, it's also fun.
+vocab: en effet | indeed, in fact | ahn neh-FEH
+example: En effet, c'est plus facile. | Indeed, it's easier.
+vocab: c'est pourquoi | that's why | seh poor-KWAH
+example: C'est pourquoi je suis pour. | That's why I'm for it.
+vocab: l'avenir | the future | lah-vuh-NEER
+example: C'est important pour leur avenir. | It's important for their future.
+vocab: ouvrir l'esprit | to broaden the mind | oo-VREER LEHS-pree
+example: Voyager ouvre l'esprit. | Travelling broadens the mind.
+vocab: la matière | school subject | lah mah-TYEHR
+example: C'est utile dans les autres matières. | It's useful in other subjects.
+
+[grammar]
+grammar: Ordering your points | Open with your position. Order arguments with d'abord / premièrement, ensuite / deuxièmement, enfin / pour finir. Balance two sides with d'une part d'autre part. Add emphasis with non seulement mais aussi. Give the conclusion with c'est pourquoi or en conclusion.
+example: D'abord, les enfants apprennent plus facilement. | First, children learn more easily.
+example: C'est pourquoi je suis pour. | That's why I'm for it.
+grammar: Linking words | En effet confirms what you just said and adds a reason: les enfants apprennent facilement ; en effet, leur cerveau est plus souple. Donc / alors / c'est pourquoi introduce a result. De plus / en outre / par ailleurs add an argument. Non seulement mais aussi puts the stress on the second element.
+example: Non seulement c'est utile, mais c'est aussi amusant. | Not only is it useful, it's also fun.
+example: De plus, c'est un avantage pour la société. | Moreover, it's an advantage for society.
+
+[quiz]
+quiz: Which phrase introduces a conclusion? | D'abord | C'est pourquoi | En effet | Par exemple | B | C'est pourquoi = that's why.
+quiz: Which pair presents two sides? | ni… ni… | plus… que | d'une part… d'autre part | avant… après | C | D'une part… d'autre part.
+quiz: What does “en effet” mean? | in effect, no | on the other hand | however | indeed | D | En effet = indeed.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

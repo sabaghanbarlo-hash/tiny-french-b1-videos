@@ -1,0 +1,47 @@
+title: Recommending and Reviewing
+episode: UC18
+scene: bookstore
+
+[story]
+Adrien: Je te recommande ce roman. Ce qui m'a plu, c'est le style, très simple et très vivant. | I recommend this novel. What I liked is the style, very simple and very lively.
+Marinette: Et ce que tu as moins aimé ? | And what you liked less?
+Adrien: La fin, certes, un peu rapide, mais ça reste un très bon livre. Je lui donne quatre étoiles sur cinq. | The ending, admittedly, a bit rushed, but it's still a very good book. I give it four stars out of five.
+Marinette: Pour la critique, on peut écrire : « Un roman émouvant, à lire absolument. » | For the review, we can write: “A moving novel, a must-read.”
+Adrien: Ajoutons ce dont on se souvient : les personnages sont inoubliables. | Let's add what we remember: the characters are unforgettable.
+Marinette: Parfait. Ce que je retiens, c'est qu'on ne s'ennuie jamais en le lisant. | Perfect. What I take away is that you're never bored reading it.
+
+[vocab]
+vocab: recommander | to recommend | ruh-koh-mahn-DAY
+example: Je te recommande ce livre. | I recommend this book.
+vocab: à lire absolument | a must-read | ah LEER ahb-soh-lew-MAHN
+example: Ce roman est à lire absolument. | This novel is a must-read.
+vocab: la critique | review, criticism | lah kree-TEEK
+example: J'ai lu une critique positive. | I read a positive review.
+vocab: l'étoile | star | lay-TWAHL
+example: Je lui donne quatre étoiles. | I give it four stars.
+vocab: certes… mais | admittedly… but | SEHRT… meh
+example: Certes, c'est long, mais c'est bien. | Admittedly it's long, but it's good.
+vocab: vivant / vivante | lively | vee-VAHN
+example: Le style est très vivant. | The style is very lively.
+vocab: inoubliable | unforgettable | ee-noo-blee-AH-bluh
+example: Les personnages sont inoubliables. | The characters are unforgettable.
+vocab: la fin | ending, end | lah FAN
+example: La fin est trop rapide. | The ending is too rushed.
+vocab: s'ennuyer | to be bored | sahn-nwee-YAY
+example: On ne s'ennuie jamais. | You're never bored.
+
+[grammar]
+grammar: Ce qui, ce que, ce dont | Ce qui, ce que and ce dont stand for 'what' as a thing, when there is no noun: ce qui is the subject, ce que is the object, ce dont is for verbs with de. They often begin a sentence followed by c'est.
+example: Ce qui m'a plu, c'est le style. | What I liked is the style.
+example: Ce que je retiens, c'est l'histoire. | What I take away is the story.
+grammar: A balanced review | A good review gives facts, an opinion and a recommendation. Use certes mais to balance: certes, la fin est rapide, mais c'est un très bon livre. Recommend with je te conseille de plus infinitive, c'est à voir / à lire absolument, ça vaut le détour. Rate: quatre étoiles sur cinq, une note de 8 sur 10.
+example: Certes, c'est long, mais c'est excellent. | Admittedly it's long, but it's excellent.
+example: Je te conseille de le lire. | I advise you to read it.
+
+[quiz]
+quiz: Which is correct? | Ce qui m'a plu, c'est le style. | Ce que m'a plu, c'est le style. | Ce qui j'ai aimé, c'est le style. | Ce dont m'a plu, c'est le style. | A | Ce qui = subject.
+quiz: Which fits? “___ je me souviens, c'est le décor.” | Ce que | Ce dont | Ce qui | Ce où | B | Se souvenir de → ce dont.
+quiz: What does “certes… mais” express? | therefore… and | because… so | admittedly… but | first… then | C | Concession.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
