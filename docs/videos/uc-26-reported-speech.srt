@@ -1,0 +1,29 @@
+1
+00:00:12,240 --> 00:00:18,092
+Hier, Hugo m'a dit qu'il viendrait à la réunion, mais il n'est pas venu.
+Yesterday, Hugo told me he would come to the meeting, but he didn't come.
+
+2
+00:00:18,192 --> 00:00:22,772
+Il m'a expliqué qu'il avait eu un problème de transport.
+He explained to me that he'd had a transport problem.
+
+3
+00:00:22,872 --> 00:00:29,804
+Il m'a aussi demandé si j'avais le dossier, et je lui ai répondu que je l'envoyais ce matin.
+He also asked me if I had the file, and I told him I was sending it this morning.
+
+4
+00:00:29,904 --> 00:00:35,036
+Le chef nous a demandé de préparer une présentation pour jeudi.
+The boss asked us to prepare a presentation for Thursday.
+
+5
+00:00:35,136 --> 00:00:41,036
+Il a dit qu'on avait encore trois jours, donc qu'il n'y avait pas d'urgence.
+He said we still had three days, so there was no urgency.
+
+6
+00:00:41,136 --> 00:00:47,036
+Je lui ai demandé où il voulait que nous la présentions, et il a répondu qu'il verrait.
+I asked him where he wanted us to present it, and he answered that he would see.

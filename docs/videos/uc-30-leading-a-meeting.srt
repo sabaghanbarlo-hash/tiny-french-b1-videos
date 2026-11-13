@@ -1,0 +1,29 @@
+1
+00:00:11,928 --> 00:00:20,924
+Bonjour à tous. Voici l'ordre du jour : le planning, le budget, puis les questions diverses.
+Hello everyone. Here's the agenda: the schedule, the budget, then any other business.
+
+2
+00:00:21,024 --> 00:00:24,836
+Je peux prendre la parole sur le planning ?
+Can I speak about the schedule?
+
+3
+00:00:24,936 --> 00:00:28,532
+Bien sûr, nous t'écoutons.
+Of course, we're listening.
+
+4
+00:00:28,632 --> 00:00:35,708
+On pourrait avancer la livraison d'une semaine. Je propose que nous commencions plus tôt.
+We could bring the delivery forward by a week. I suggest we start earlier.
+
+5
+00:00:35,808 --> 00:00:41,708
+Qui est d'accord ? Passons au point suivant : le budget.
+Who agrees? Let's move to the next point: the budget.
+
+6
+00:00:41,808 --> 00:00:48,332
+Pour conclure, je résume : on avance la livraison et on se revoit lundi.
+To conclude, I'll summarise: we bring the delivery forward and meet again on Monday.

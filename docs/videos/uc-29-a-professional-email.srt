@@ -1,0 +1,29 @@
+1
+00:00:12,336 --> 00:00:18,716
+Je voudrais envoyer un e-mail de remerciement. Comment je commence ?
+I'd like to send a thank-you e-mail. How do I start?
+
+2
+00:00:18,816 --> 00:00:25,484
+« Madame, Suite à notre entretien de mardi, je tiens à vous remercier de votre accueil. »
+“Madam, Following our interview on Tuesday, I would like to thank you for your welcome.”
+
+3
+00:00:25,584 --> 00:00:30,596
+Ensuite, je mentionne le CV que j'ai promis d'envoyer.
+Then I mention the CV I promised to send.
+
+4
+00:00:30,696 --> 00:00:36,380
+« Vous trouverez en pièce jointe mon CV mis à jour afin de compléter mon dossier. »
+“You will find attached my updated CV, in order to complete my file.”
+
+5
+00:00:36,480 --> 00:00:39,140
+Et pour finir ?
+And to finish?
+
+6
+00:00:39,240 --> 00:00:47,180
+« N'hésitez pas à me contacter si vous avez besoin d'informations. Cordialement, Marinette Dupont. »
+“Do not hesitate to contact me if you need any information. Kind regards, Marinette Dupont.”

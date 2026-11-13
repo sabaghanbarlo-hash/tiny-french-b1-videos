@@ -1,0 +1,29 @@
+1
+00:00:12,216 --> 00:00:18,236
+Assistance technique, bonjour. Quel est votre problème ?
+Tech support, hello. What's the problem?
+
+2
+00:00:18,336 --> 00:00:25,820
+Mon ordinateur ne s'allume plus et je n'arrive plus à me connecter. Rien ne marche.
+My computer won't turn on any more and I can't connect any more. Nothing works.
+
+3
+00:00:25,920 --> 00:00:32,804
+Il faut que vous le redémarriez. Maintenez le bouton enfoncé pendant dix secondes.
+You need to restart it. Hold the button down for ten seconds.
+
+4
+00:00:32,904 --> 00:00:38,060
+J'ai déjà essayé. Il ne se passe rien.
+I've already tried. Nothing happens.
+
+5
+00:00:38,160 --> 00:00:45,476
+Débranchez-le, retirez la batterie et rebranchez-le. Vous ne l'avez jamais fait réparer ?
+Unplug it, remove the battery and plug it back in. Have you never had it repaired?
+
+6
+00:00:45,576 --> 00:00:52,052
+Non, jamais. Personne ne m'a prévenue que la batterie était vieille.
+No, never. Nobody told me the battery was old.
