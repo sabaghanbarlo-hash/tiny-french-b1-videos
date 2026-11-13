@@ -1,0 +1,29 @@
+1
+00:00:12,528 --> 00:00:16,604
+Tu es bénévole dans une association, non ?
+You're a volunteer in an association, aren't you?
+
+2
+00:00:16,704 --> 00:00:23,108
+Oui, je fais partie de celle qui organise des cours de français pour les nouveaux arrivants.
+Yes, I'm part of the one that organises French classes for newcomers.
+
+3
+00:00:23,208 --> 00:00:26,108
+Et qui vient à tes cours ?
+And who comes to your classes?
+
+4
+00:00:26,208 --> 00:00:31,844
+Surtout ceux qui viennent d'arriver et ceux dont les enfants vont à l'école ici.
+Mainly those who have just arrived and those whose children go to school here.
+
+5
+00:00:31,944 --> 00:00:35,468
+C'est une belle façon de s'engager.
+It's a great way to get involved.
+
+6
+00:00:35,568 --> 00:00:42,668
+Viens ! On cherche des gens motivés, comme celui qui m'a aidée à déménager.
+Come along! We're looking for motivated people, like the one who helped me move.

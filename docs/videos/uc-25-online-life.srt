@@ -1,0 +1,29 @@
+1
+00:00:11,928 --> 00:00:16,532
+Tu passes combien de temps sur ton téléphone par jour ?
+How much time do you spend on your phone each day?
+
+2
+00:00:16,632 --> 00:00:23,516
+Trois heures, d'après l'appli. Je passe beaucoup de temps à regarder des vidéos.
+Three hours, according to the app. I spend a lot of time watching videos.
+
+3
+00:00:23,616 --> 00:00:31,292
+Moi, je me connecte surtout pour travailler. J'ai désinstallé deux réseaux sociaux.
+I mostly go online to work. I've uninstalled two social networks.
+
+4
+00:00:31,392 --> 00:00:35,012
+Tu n'as pas eu peur de rater des choses ?
+Weren't you afraid of missing things?
+
+5
+00:00:35,112 --> 00:00:42,188
+Au début, si. Mais je passe plus de temps à lire depuis que j'ai arrêté.
+At first, yes. But I spend more time reading since I stopped.
+
+6
+00:00:42,288 --> 00:00:49,052
+Je devrais faire pareil. Je vais mettre une limite de deux heures dans les réglages.
+I should do the same. I'm going to put a two-hour limit in the settings.
